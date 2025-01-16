@@ -1,0 +1,3022 @@
+
+Ma'lumotlar tahlilchisi aralash ta’limda o‘qituvchining nechanchi roli hisoblanadi? 
+====
+# 3-ro‘li
+====
+1-ro‘li
+====
+2-ro‘li
+====
+4-ro‘li
+
++++++
+
+...-yil 12-avgustda IBM dunyodagi birinchi shaxsiy kompyuterni taqdim etdi . 
+====
+#1981
+====
+1982
+====
+1983
+====
+1984
+
++++++
+
+Dastlabki raqamli ta'lim platformalaridan biri bo'lgan Blackboard qachon ishga tushirilgan?
+====
+#1997
+====
+2000
+====
+1995
+====
+2002
+
++++++
+
+O'quv motivator va o'z-o'zini boshqarishga undovchi aralash ta’limda o‘qituvchining nechanchi roli hisoblanadi? 
+====
+# 4-ro‘li
+====
+1-ro‘li
+====
+2-ro‘li
+====
+3-ro‘li
+
++++++
+
+Aralash ta'limda o'quvchilarning mustaqil o'rganish ko'nikmalarini rivojlantirish usullarini toping.
+====
+# Mas'uliyatni oshirish,Tadqiqot va ma'lumotlarni tahlil qilish,Vaqtni samarali boshqarish,O'z-o'zini o'rganish usullari,Feedback olish va qayta ishlash
+====
+Mas'uliyatni oshirish,Tadqiqot va ma'lumotlarni tahlil qilish
+====
+Vaqtni samarali boshqarish,O'z-o'zini o'rganish usullari,Feedback olish va qayta ishlash
+====
+Mas'uliyatni oshirish,Tadqiqot va ma'lumotlarni tahlil qilish,Vaqtni samarali boshqarish,O'z-o'zini o'rganish usullari,Feedback olish va qayta ishlash,Uy vazifasini bajarishda yordamlashish
+
++++++
+
+Interaktiv metodlar nima?
+====
+# bu o‘quv jarayonini faol ishtirokchilar bilan birga o‘tkazishni nazarda tutadigan uslublar bo‘lib, bu uslublarda o‘quvchilar faoliyatni o‘zlari boshqaradi. Bu jarayonda o‘qituvchi yo‘naltiruvchi va ko‘mak beruvchi rolini o‘ynaydi, lekin asosiy bilimlar va tajribalarni o‘quvchilar o‘zlari kashf etishlari kerak. Ushbu uslub an'anaviy yondashuvdan farqli o'laroq, talabaning qiziqishi va faol ishtirokini kuchaytiradi
+====
+ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+====
+dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+====
+Bu uslubda o‘quvchilar ma'lum bir asosiy mavzuni olib, uning asosida turli g‘oyalar yoki kichik mavzularni guruhlarga ajratadi. O‘quvchilar o‘z fikrlarini tartibga solib, ularni grafik tarzda ko‘rsatadilar
+
++++++
+
+… - bu o‘quv jarayonini faol ishtirokchilar bilan birga o‘tkazishni nazarda tutadigan uslublar bo‘lib, bu uslublarda o‘quvchilar faoliyatni o‘zlari boshqaradi. Bu jarayonda o‘qituvchi yo‘naltiruvchi va ko‘mak beruvchi rolini o‘ynaydi, lekin asosiy bilimlar va tajribalarni o‘quvchilar o‘zlari kashf etishlari kerak. Ushbu uslub an'anaviy yondashuvdan farqli o'laroq, talabaning qiziqishi va faol ishtirokini kuchaytiradi
+====
+# Interaktiv metodlar
+====
+Debat
+====
+Case Study
+====
+Munozara
+
++++++
+
+… - dars davomida o‘quvchilar o‘rtasida fikr almashinadigan faol metoddir. Bu usul o‘quvchilarga mavzu bo‘yicha o‘z fikrlarini ifodalash va boshqalarning nuqtai nazarini tushunish imkonini beradi.
+====
+# Diskussiya (munozara)
+====
+Debat
+====
+Rolli o‘yinlar
+====
+Aqliy xujum
+
++++++
+
+Multimedia komponentlarini toping
+====
+# matn, grafik, animatsiya, video, ovoz va nutq
+====
+video, ovoz va nutq
+====
+grafik, animatsiya
+====
+matn,video,rasm
+
++++++
+
+... yilga kelib, ta'limni boshqarish tizimi (LMS) joriy etildi
+====
+#1980
+====
+1981
+====
+1989
+====
+1988
+
++++++
+
+Aralash ta'lim ish joyidagi ko'nikmalarni rivojlantirishi mumkin bo'lgan usullar:
+====
+#Raqamli savodxonlik, O'z-o'zini boshqarish va javobgarlik, Hamkorlik va muloqot Moslashuvchanlik, Muammolarni hal qilish va tanqidiy fikrlash
+====
+O'z-o'zini tartibga solish, Madaniy moslashuv
+====
+Innovatsiyalar va ishlab chiqarish o'rtasidagi muvozanat, Internetga kirish va foydalanuvchini qabul qilish
+====
+tanqidiy fikrlash, madaniy moslashuv
+
++++++
+
+aralash ta'lim kontseptsiyasini 1840-yillarda ser ... o'zining stenogramma tizimi bo'yicha yo'riqnomalarni sirtqi kursda yetkazgan
+====
+#Isaak Pitman
+====
+Elsenxaymer
+====
+Graham
+====
+Fernand
+
++++++
+
+aralash ta'lim kontseptsiyasini 1840-yillarda ser Isaak Pitman o'zining ... tizimi bo'yicha yo'riqnomalarni sirtqi kursda yetkazgan
+====
+#stenogramma
+====
+blended Learning
+====
+Modified Learning
+====
+Galogramma
+
++++++
+
+aralash ta'lim usulidan foydalanish foydali ekanligi isbotlangan uchta asosiy soha: 
+====
+#Til ko'nikmalarini rivojlantirish,Motivatsiya va faollikni oshirish,O'quv muhitini yaxshilash
+====
+Jonli shovqin,O'z-o'zini tartibga solish,Madaniy moslashuv
+====
+O'z-o'zini tartibga solish,Motivatsiya va faollikni oshirish,O'quv muhitini yaxshilash
+====
+O'quv muhitini yaxshilash,O'z-o'zini tartibga solish,Madaniy moslashuv
+
++++++
+
+Aralash ta'limni pedagogik yondashuvga kiritishdan maqsad ?
+====
+#an'anaviy amaliyotlarni yo'q qilish emas, balki o'qituvchilar va o'quvchilarga yuzma-yuz muloqot hamda onlayn o'qitish usullarining o'ziga xos afzalliklarini ta'minlashdir
+====
+eng samarali shaklini qo‘llash orqali o‘quv salohiyatini maksimal darajada oshirishga intiladigan ta’lim dizayniga yondashuv”dir
+====
+aralash ta'limning aniqroq ta'rifini beradi, bu "onlayn va yuzma-yuz o'qitish" kombinatsiyasi.
+====
+aralash ta'lim bilan bog'liq texnologiyadan muvaffaqiyatli foydalanish bo'yicha ishtirokchilarning individual xususiyatlarini va texnologiya bilan ishlash qobiliyatini hisobga olgan holda majburiyatini qanday ta'minlash
+
++++++
+
+... aralash ta'limning aniqroq ta'rifini beradi, bu "onlayn va yuzma-yuz o'qitish" kombinatsiyasi.
+====
+#Graham (2013)
+====
+Elsenxaymer (2006)
+====
+Oppenhaymer(2000)
+====
+Jeyms(2002)
+
++++++
+
+"aralash ta'lim turli odamlar uchun har xil narsalarni anglatadi" bu kimning fikrlari ?
+====
+#Driscoll (2019, 1-bet) 
+====
+Graham (2013) 
+====
+Elsenxaymer (2006 yil, 26-bet) 
+====
+Newton(2000 yil, 30-bet)
+
++++++
+
+Driscoll (2019, 1-bet) fikriga ko'ra, ... turli odamlar uchun har xil narsalarni anglatadi
+====
+#aralash ta'lim
+====
+dual ta'lim
+====
+masofaviy ta'lim
+====
+online ta'lim
+
++++++
+
+Driscoll (2019, 1-bet) fikriga ko'ra, aralash ta'lim turli odamlar uchun 
+====
+#har xil narsalarni anglatadi
+====
+bir xil narsalarni anglatadi
+====
+standart narsalarni anglatishi kerak
+====
+tizimni anglatadi
+
++++++
+
+Elsenxaymer (2006 yil, 26-bet) uchun aralash ta’lim 
+====
+#“muayyan dastur elementi uchun o‘qitishning eng samarali shaklini qo‘llash orqali o‘quv salohiyatini maksimal darajada oshirishga intiladigan ta’lim dizayniga yondashuv”dir
+====
+Aralash ta'limni pedagogik yondashuvga kiritishdan maqsad an'anaviy amaliyotlarni yo'q qilish emas, balki o'qituvchilar va o'quvchilarga yuzma-yuz muloqot hamda onlayn o'qitish usullarining o'ziga xos afzalliklarini ta'minlashdir
+====
+aralash ta'lim tahkil etishdagi asosiy muammo - aralash ta'lim bilan bog'liq texnologiyadan muvaffaqiyatli foydalanish bo'yicha ishtirokchilarning individual xususiyatlarini va texnologiya bilan ishlash qobiliyatini hisobga olgan holda majburiyatini qanday ta'minlash
+====
+bu an'anaviy o'qitish usullari va raqamli texnologiyalarni birlashtirib, ta'lim jarayonini yanada samarali qilishga intiladigan usuldir
+
++++++
+
+Formativ baholashning formativ so'rov usuli
+====
+#Bu darsdagi material yoki har qanday faoliyat taqdimotidan keyin darhol baholanadigan baholash shaklidir. 
+====
+talabaning o'z ishini baholashi, balki muammolarni va ularni hal qilish yo'llarini mustaqil ravishda aniqlashdir
+====
+darsdan tashqari davom etayotgan o'quv vazifalari ustida ishlayotganda yuzaga kelishi mumkin.
+====
+belgilash usuli sifatida quyidagilar uchun ishlatilishi mumkin: og'zaki javob, og'zaki taqdimot; juftlik, guruhlarda ishlash;
+
++++++
+
+Formativ baholash Mini-testlar (kam miqdordagi topshiriqlar) usuli
+====
+#o'quvchilarning haqiqiy bilimlari, ko'nikmalari va qobiliyatlarini, ya'ni aniq ma'lumotlar, ma'lum materiallarni bilishni baholash uchun mo'ljallangan. 
+====
+talabaning o'z ishini baholashi, balki muammolarni va ularni hal qilish yo'llarini mustaqil ravishda aniqlashdir
+====
+darsdagi material yoki har qanday faoliyat taqdimotidan keyin darhol baholanadigan baholash shaklidir. 
+====
+belgilash usuli sifatida quyidagilar uchun ishlatilishi mumkin: og'zaki javob, og'zaki taqdimot; juftlik, guruhlarda ishlash;
+
++++++
+
+Formativ baholash kuzatish usuli - (rasmiy) belgilash usuli sifatida quyidagilar uchun ishlatilishi mumkin: 
+====
+#og'zaki javob, og'zaki taqdimot; juftlik, guruhlarda ishlash;
+====
+o'quvchilarning haqiqiy bilimlari, ko'nikmalari va qobiliyatlarini, ya'ni aniq ma'lumotlar, ma'lum materiallarni bilishni baholash uchun mo'ljallangan. 
+====
+Bu nafaqat talabaning o'z ishini baholashi, balki muammolarni va ularni hal qilish yo'llarini mustaqil ravishda aniqlashdir
+====
+O'qituvchi qo'shimcha aniqlovchi savollarni beradi: Nega? Qanday qilib? Qanday?
+
++++++
+
+Nima uchun formativ baholash juda muhim? 
+====
+#Formativ baholash o'quvchilar va ularning o'qituvchilari o'quvchilarining o'qish jarayonida qanchalik muvaffaqiyatga erishganligi, qaysi yo’ldan borishlari kerakligi va buni qanday qilib eng yaxshi yo'l bilan amalga oshirishni hal qilish uchun foydalanadigan ma'lumotlarni topish va sharhlash jarayoni amalga oshiriladi
+====
+Formativ baholash Mini-testlar (kam miqdordagi topshiriqlar) usuli- o'quvchilarning haqiqiy bilimlari, ko'nikmalari va qobiliyatlarini, ya'ni aniq ma'lumotlar, ma'lum materiallarni bilishni baholash uchun mo'ljallangan. Mini-testni bajarish uchun 5 daqiqadan ortiq dars vaqti ajratilmaydi
+====
+Formativ baholash o'z-o'zini baholash usuli - bu o'ziga baho berish bilan emas, balki baholash protsedurasi bilan bog'liq bo'lgan baholash faoliyati turlaridan biridir. Bu nafaqat talabaning o'z ishini baholashi, balki muammolarni va ularni hal qilish yo'llarini mustaqil ravishda aniqlashdir
+====
+bu pedagogik tizim faoliyati to'g'risidagi axborotni tashkil etish, to'plash, saqlash, qayta ishlash va tarqatish, uning holatini doimiy monitoringini ta'minlash hamda rivojlanishini prognozlash shaklidir.
+
++++++
+
+... - Darsda kundalik ish jarayonida bilim va malakalarni egallashning hozirgi darajasini aniqlash
+====
+#Formativ (doimiy) baholash
+====
+Summativ (doimiy) baholash
+====
+Formativ (yakuniy) baholash
+====
+Summativ (yakuniy) baholash 
+
++++++
+
+Kahoot onlayn viktorinalarining kamchiliklari: 
+====
+# Barcha boshqaruv elementlari ingliz tilida (Kahoot!); Vazifalar yaratish uchun bir nechta shablon mavjud xolos. Talabalarni aniqlashdagi qiyinchilik (talabalar o'zlarining ismlarini o'zlari ko'rsatadilar)
+====
+O'yin shaklida mashq qilish va nazorat qilish;
+====
+Testlar avtomatik tekshirish imkoniyatiga ega;
+====
+Ochiq savolli topshiriqlar; O'qituvchi talabalarning topshiriqlari haqida batafsil ma'lumot oladi.
+
++++++
+
+Google form ning afzallilari:
+====
+# Testlar avtomatik tekshirish imkoniyatiga ega; Rasmlar va videolar asosida vazifalar yaratish; Ochiq savolli topshiriqlar; O'qituvchi talabalarning topshiriqlari haqida batafsil ma'lumot oladi.
+====
+Yaratish uchun o'qituvchiga Google akaunti (gmail) kerak; To'g'ri identifikatsiya qilish uchun talabaga Google (gmail) akaunti kerak bo'ladi;
+====
+Interaktiv simulyator vazifalari avtomatik ravishda tekshiriladi; Shablonlarning xilma-xilligi; O'qituvchilar tomonidan yaratilgan tayyor materiallar kutubxonasi, ularni yanada rivojlantirish mumkin;
+====
+Tayyor materiallar yo'q
+
++++++
+
+Google form ning kamchiliklari:
+====
+# Yaratish uchun o'qituvchiga Google akaunti (gmail) kerak; To'g'ri identifikatsiya qilish uchun talabaga Google (gmail) akaunti kerak bo'ladi; Tayyor materiallar yo'q; Avtomatik tekshirish bilan vazifalar yaratish uchun bir nechta shablonlar bor xolos
+====
+Tayyor materiallarda xatolar bo'lishi mumkin yoki dasturga mos kelmasligi mumkin; Talabalar natijalari haqida kam ma'lumot
+====
+Barcha boshqaruv elementlari ingliz tilida ; Vazifalar yaratish uchun bir nechta shablon mavjud xolos. Talabalarni aniqlashdagi qiyinchilik (talabalar o'zlarining ismlarini o'zlari ko'rsatadilar)
+====
+To’g’ri javob mavjud emas
+
++++++
+
+LearningАpps.org ning afzalliklari
+====
+# Interaktiv simulyator vazifalari avtomatik ravishda tekshiriladi; Shablonlarning xilma-xilligi; O'qituvchilar tomonidan yaratilgan tayyor materiallar kutubxonasi, ularni yanada rivojlantirish mumkin; O'qituvchi har bir o'quvchining natijalari to'g'risida ma'lumot olish uchun sinf yaratishi mumkin.
+====
+Tayyor materiallarda xatolar bo'lishi mumkin yoki dasturga mos kelmasligi mumkin
+====
+Ochiq savolli topshiriqlar; O'qituvchi talabalarning topshiriqlari haqida batafsil ma'lumot oladi.
+====
+O'qituvchi talabalarning topshiriqlari haqida batafsil ma'lumot oladi.
+
++++++
+
+ekranda turli xil o'quv kontenti, masalan, grafik va diagramma ko'rsatilganda, o'quvchilar ularni o'rganish tartibini tushunishlari kerak
+====
+#Multimediadan foydalanishning Signal berish printsipi
+====
+Multimediadan foydalanishning Izchillik tamoyili
+====
+Ortiqchalik printsipi
+====
+Fazoviy bog'liqlik printsipi
+
++++++
+
+O‘ZBEKISTON RESPUBLIKASINING DAVLAT STANDARTI 
+====
+#“Fanni o‘qitish natijalari va shakllanadigan kasbiy kompetensiyalar” qismda ta’lim yo‘nalishi (mutaxassislik)ga muvofiq muayyan fan bo‘yicha ta’lim oluvchi egallashi lozim bo‘lgan bilim, ko‘nikma va kompetensiyalar bayon qilinadi
+====
+davlat ta’lim standartlariga, kasb standartlariga va milliy (tarmoq) malaka doirasiga muvofiq ishlab chiqilgan ta’lim standartlaridan, o‘quv rejalaridan, o‘quv dasturlaridan va tegishli uslubiy ko‘rsatmalardan iborat normativ-uslubiy hujjatlar majmui
+====
+o‘quv rejalaridan, o‘quv dasturlaridan va tegishli uslubiy ko‘rsatmalardan iborat normativ-uslubiy hujjatlar majmui
+====
+ intonatsiya yoki pauzani qanday o'zgartirishni bilmaydi, shuning uchun nutq so'zlarning monoton oqimi sifatida qabul qilinadi
+
++++++
+
+O‘ZBEKISTON RESPUBLIKASINING DAVLAT STANDARTI 
+====
+#“Talabalar kreditlarni olish tartibi” kredit-modul tizimida fan bo‘yicha talabalar bilimini nazorat qilish (baholash) va kreditlarni olishga oid talablar o‘rnatilgan tartibda belgilanadi
+====
+Yangi o'quv dasturi o'qituvchilarga qiyin vazifani qo’yadi: jurnalga bilimga mos keladigan yakuniy baho qo’yish va shu bilan birga har bir talabaning rivojlanishini baholash
+====
+bilim qobiliyatini shakllantirishga hissa qo'shadigan aniq belgilangan, birgalikda ishlab chiqilgan mezonlar bilan o'quvchilarning ta'lim yutuqlarini taqqoslaydi
+====
+baholash o'quvchilar va ularning o'qituvchilari o'quvchilarining o'qish jarayonida qanchalik muvaffaqiyatga erishganligi, qaysi yo’ldan borishlari kerakligi va buni qanday qilib eng yaxshi yo'l bilan amalga oshirishni hal qilish uchun foydalanadigan ma'lumotlarni topish va sharhlash jarayoni amalga oshiriladi
+
++++++
+
+o'quv materiallarida odamlarning tasvirlari bo'lsa, bu o'rganish natijalarini yaxshilamaydi, aksincha, ularga zarar yetkazadi. Insonning, hatto o'qituvchining ham yuzi va mimikasi diqqatni chalg'itadi
+====
+#Tasvirlar printsipi
+====
+Ovoz printsipi
+====
+Shaxsiylashtirish printsipi
+====
+Multimedia printsipi
+
++++++
+
+o'quv multimedia materiallaridagi matnni robot yoki kompyuter emas, balki odam o'qishi kerak. Robot o'quvchi intonatsiya yoki pauzani qanday o'zgartirishni bilmaydi, shuning uchun nutq so'zlarning monoton oqimi sifatida qabul qilinadi
+====
+#Ovoz printsipi
+====
+Tasvirlar printsipi
+====
+Shaxsiylashtirish printsipi
+====
+Multimedia printsipi
+
++++++
+
+akademik til talabalarga ortiqcha yuk bo’lishi mumkin. Professional terminologiya o'rniga norasmiy tildan foydalanish yaxshiroqdir - bu yodlash jarayonini osonlashtiradi
+====
+#Shaxsiylashtirish printsipi
+====
+Ovoz printsipi
+====
+Tasvirlar printsipi
+====
+Multimedia printsipi
+
++++++
+
+So'zlar yozilishi yoki aytilishi kerak, lekin ikkalasi ham birga emas. Siz matnni gapirmasligingiz va uni bir vaqtning o'zida ekranda ko'rsatmasligingiz kerak
+====
+#Multimedia printsipi
+====
+Shaxsiylashtirish printsipi
+====
+Ovoz printsipi
+====
+Tasvirlar printsipi
+
++++++
+
+tarkibida tasvirlar ham mavjud bo’lsa, ekrandagi bosma matn o'rniga og'zaki hikoyadan foydalanish tavsiya qilinadi. Multimedia xabarlari ham rasm, ham matnni o'z ichiga olgan bo'lsa, ikkalasining kombinatsiyasi o'quvchilarning vizual kanallariga ortiqcha yuklama bo’ladi bu qaysi tamoyil(prinsp)
+====
+#Modallik printsipi
+====
+Oldindan tayyorgarlik tamoyil
+====
+Segmentatsiya printsipi
+====
+Vaqt bo’yicha uzluksizlik printsipi
+
++++++
+
+Talabalarga multimediya materiallaridagi ma'lumotlarning miqdori yoki murakkabligi ortiqcha yuklama bo'lishi mumkin. Bunga yo'l qo'ymaslik uchun siz asosiy atamalar yoki tushunchalarni belgilash, ularni tushuntirish va shundan keyingina murakkab tavsiflarni o’rgatish kerak bu qaysi tamoyil(prinsp)
+====
+#Oldindan tayyorgarlik tamoyil
+====
+Modallik printsipi
+====
+Segmentatsiya printsipi
+====
+Vaqt bo’yicha uzluksizlik printsipi
+
++++++
+
+Talabalar kiruvchi ma'lumotlar tezligini nazorat qila olsalar, ular ma'lumotni yaxshiroq eslab qolishadi bu qaysi tamoyil(prinsp)
+====
+#Segmentatsiya printsipi
+====
+Oldindan tayyorgarlik tamoyil
+====
+Modallik printsipi
+====
+Vaqt bo’yicha uzluksizlik printsipi
+
++++++
+
+multimedia materiallarida matn uning mazmuni tasvirlangan grafikani yonida bo'lishi kerak bu qaysi tamoyil(prinsp)
+====
+#Fazoviy bog'liqlik printsipi
+====
+Vaqt bo’yicha uzluksizlik printsipi
+====
+Segmentatsiya printsipi
+====
+Oldindan tayyorgarlik tamoyil
+
++++++
+
+Fazoviy bog'liqlik printsipi
+====
+#multimedia materiallarida matn uning mazmuni tasvirlangan grafikani yonida bo'lishi kerak
+====
+tovush va animatsiya bir vaqtning o'zida ijro etilishi kerak
+====
+Talabalar kiruvchi ma'lumotlar tezligini nazorat qila olsalar, ular ma'lumotni yaxshiroq eslab qolishadi
+====
+Talabalarga multimediya materiallaridagi ma'lumotlarning miqdori yoki murakkabligi ortiqcha yuklama bo'lishi mumkin. Bunga yo'l qo'ymaslik uchun siz asosiy atamalar yoki tushunchalarni belgilash, ularni tushuntirish va shundan keyingina murakkab tavsiflarni o’rgatish kerak
+
++++++
+
+o'quv materiallaridan o'rganilayotgan fan yoki sohaga aloqador bo'lmagan keraksiz detallarni olib tashlash kerak bu qaysi tamoyil
+====
+#Multimediadan foydalanishning Izchillik tamoyili
+====
+Multimediadan foydalanishning Signal berish printsipi
+====
+Ortiqchalik printsipi
+====
+Fazoviy bog'liqlik printsipi: 
+
++++++
+
+Qaysi model talabalarni darsga tayyor holda kelish uchun uyda o'qitishni taklif qiladi?
+====
+#Flipped Classroom (Ag'darilgan sinf)
+====
+Onlayn o'qitish
+====
+Gibrid sinf
+====
+Standart an'anaviy ta'lim
+
++++++
+
+Aralash ta'limning asosiy maqsadi nima?
+====
+#Ta'lim samaradorligini oshirish
+====
+An'anaviy ta'limni bekor qilish
+====
+Texnologiyani sinfda ko'proq ishlatish
+====
+Faqat onlayn kurslarni rivojlantirish
+
++++++
+
+Google Classroom qanday funksiyani taqdim etadi?
+====
+#Vazifalarni boshqarish va topshiriqlarni yuborish
+====
+Faqat onlayn testlar o'tkazish
+====
+Talabalarning reytingini ko'rsatish
+====
+Sinflarni ro'yxatga olish
+
++++++
+
+O'rganishni individuallashtirish uchun qaysi texnologiya foydali?
+====
+#Adaptiv o'quv platformalari
+====
+Faqat an'anaviy sinf mashg'ulotlari
+====
+Kitoblarni raqamlashtirish
+====
+Fax dasturlari
+
++++++
+
+Aralash ta'limda foydalaniladigan texnologiyalar orasida eng keng tarqalgani qaysi?
+====
+#Videokonferensiya vositalari
+====
+Fax mashinalari
+====
+Raqamli kamera
+====
+Ofis printerlari
+
++++++
+
+MOOC'ning asosiy afzalligi nima?
+====
+#Barcha uchun ochiqlik va qulaylik
+====
+Cheklangan ishtirokchilar soni
+====
+Faqat maxsus ta'lim olish imkoniyati
+====
+Kichik guruhlar bilan ishlash
+
++++++
+
+Gamifikatsiya ta'lim jarayonida qanday vazifani bajaradi?
+====
+#Talabalarni rag'batlantirish va jalb qilish
+====
+Talabalarni baholash uchun standart formatni ta'minlaydi
+====
+Faqat onlayn o'qitish uchun ishlatiladi
+====
+Faqat o'qituvchilarga yordam beradi
+
++++++
+
+Qaysi vosita aralash ta'limda masofaviy darslarni yanada samarali o'tkazish imkonini beradi?
+====
+#Zoom yoki Microsoft Teams
+====
+Faqat shaxsiy telefon qo'ng'iroqlari
+====
+Elektron pochta
+====
+Fax orqali aloqa
+
++++++
+
+1981-yil 12-avgustda IBM dunyodagi birinchi shaxsiy kompyuterni taqdim etdi . Bu ish chastotasi ... , operativ xotirasi 64 kilobayt bo'lgan 16 bitli protsessor edi
+====
+#4,77 megagerts
+====
+4,78 megagerts
+====
+4 megagerts
+====
+4,99 megagerts
+
++++++
+
+1981-yil 12-avgustda IBM dunyodagi birinchi shaxsiy kompyuterni taqdim etdi . Bu ish chastotasi 4,77 megagerts, operativ xotirasi ... kilobayt bo'lgan 16 bitli protsessor edi
+====
+#64
+====
+32
+====
+128
+====
+16
+
++++++
+
+MOOC (Massive Open Online Courses) ta'lim modeli qaysi asosiy xususiyatga ega?
+====
+#Bepul va keng miqyosda ochiq kurslar taklif qilish
+====
+Oflayn ish rejimi
+====
+Yakka-yakka ta'lim berish
+====
+Faqat magistratura talabalari uchun mo'ljallangan
+
++++++
+
+Ta'limda texnologiyadan foydalanishning eng katta afzalligi nima?
+====
+#Moslashtirilgan o'rganish imkoniyatini ta'minlaydi
+====
+Barcha talabalar uchun yagona formatni taklif qiladi
+====
+Mavjud ta'lim vositalarini ortiqcha ishlatadi
+====
+Inklyuziv imkoniyatni ta'minlaydi
+
++++++
+
+VR texnologiyasi qaysi sohada ko'proq qo'llaniladi?
+====
+#Tibbiyot va dizayn
+====
+Matematika
+====
+Tarix
+====
+Adabiyot
+
++++++
+
+Gamifikatsiya nima?
+====
+#Ta'limda texnologiyalarni ishlatishning umumiy nomi
+====
+An'anaviy o'qitish usullari
+====
+Tajriba orttirish jarayoni
+====
+O'yin elementlarini ta'lim jarayoniga qo'shish
+
++++++
+
+Aralash ta'lim modellaridan qaysi biri eng ko'p qo'llaniladi?
+====
+#Flipped Classroom (Ag'darilgan sinf)
+====
+Flipped Classroom (Ag'darilgan sinf)
+====
+Yakka-yakka ta'lim
+====
+Avtonom ta'lim
+
++++++
+
+Aralash ta'limdagi asosiy texnologik muammo nima?
+====
+#Internetga ulanish masalalari
+====
+Texnologiya yo'qligi
+====
+O'qituvchilarning bilim darajasi
+====
+Darslikka asoslanganlik
+
++++++
+
+Aralash ta'lim (blended learning)ga ta’rif bering.
+====
+# Bu an'anaviy (oﬂayn) va raqamli (onlayn) ta'lim usullarining integratsiyasidan iborat ta'lim modeli. 
+====
+Online,masofaviy,raqamli ta’limga asoslangan ta’lim modeli.
+====
+An’anaviy o‘qitishga asoslangan,vaqti-vaqti bilan tanaffus olinadigan ta’lim model.
+====
+Faqat universitetlar uchun mo‘ljallangan,an’anviy ta’lim tizimi asosida o‘qitiladigan ta’lim modeli.
+
++++++
+
+Aralash ta'limning asosiy maqsadi nima?
+====
+# Ta'lim jarayonini yanada moslashuvchan, samarali va shaxsga
+yo'naltirilgan qilib yaratishdir
+====
+Ta’lim oluvchilarda tanqidiy fikrlashni rivojlantirish
+====
+Ta’limi jarayonida interfaol metodlarni qo‘llashni osnlashtirish
+====
+Ta’lim jarayonini nazorat qilishni osonlashtirish va tizimlashtirish
+
++++++
+
+Josh Bersin aralash ta’lim metodologiyasini ishlab chiqishning nechta asosiy bosqichini ko‘rib chiqadi?
+====
+# 4 ta
+====
+5 ta
+====
+3 ta
+====
+7 ta
+
++++++
+
+Station Rotation (Ish joylarini almashtirish) modeli qanday model?
+====
+# Talabalar kichik guruhlarga bo'linib, turli "stansiyalar" bo'ylab aylanib, har bir stansiyada alohida o'quv faoliyati bilan shug'ullanadilar. Stansiyalar ichida texnologiyadan foydalaniladigan qismlar (masalan, onlayn resurslar bilan ishlash), shuningdek, o'qituvchi bilan bevosita muloqot yoki guruh faoliyati kabi qism bo'lishi mumkin.
+====
+Bu modelda o'quv jarayoni ag'darilgan: an'anaviy sinfda amalga oshiriladigan darslar talabalar tomonidan mustaqil ravishda onlayn ko'rib chiqiladi, masalan, dars videolari yoki materiallar uyga vazifa sifatida beriladi. Sinfda esa talabalar bilan amaliy mashg'ulotlar, munozaralar va loyihalar o'tkaziladi.
+====
+Bu modelda o'qishning katta qismi onlayn platformalar orqali amalga oshiriladi, o'qituvchi esa talabalar bilan aloqani qo'llab-quvvatlaydi va individual yordam ko'rsatadi. Talabalar o'zlarining o'qish yo'lini o'z vaqtlarida va o'z tempida boshqaradilar
+====
+Talabalar sinfda yoki laboratoriyada turli texnologik vositalar va o'quv resurslari bilan ishlashadi. Darslar texnologiyalar yordamida mustaqil ravishda o'tkaziladi, ammo sinfda yoki laboratoriyada bo'lish talab qilinadi
+
++++++
+
+Flex Model (Moslashuvchan model) qanday model?
+====
+# Bu modelda o'qishning katta qismi onlayn platformalar orqali amalga oshiriladi, o'qituvchi esa talabalar bilan aloqani qo'llab-quvvatlaydi va individual yordam ko'rsatadi. Talabalar o'zlarining o'qish yo'lini o'z vaqtlarida va o'z tempida boshqaradilar
+====
+Bu modelda o'quv jarayoni ag'darilgan: an'anaviy sinfda amalga oshiriladigan darslar talabalar tomonidan mustaqil ravishda onlayn ko'rib chiqiladi, masalan, dars videolari yoki materiallar uyga vazifa sifatida beriladi. Sinfda esa talabalar bilan amaliy mashg'ulotlar, munozaralar va loyihalar o'tkaziladi.
+====
+Talabalar kichik guruhlarga bo'linib, turli "stansiyalar" bo'ylab aylanib, har bir stansiyada alohida o'quv faoliyati bilan shug'ullanadilar. Stansiyalar ichida texnologiyadan foydalaniladigan qismlar (masalan, onlayn resurslar bilan ishlash), shuningdek, o'qituvchi bilan bevosita muloqot yoki guruh faoliyati kabi qism bo'lishi mumkin
+====
+Talabalar sinfda yoki laboratoriyada turli texnologik vositalar va o'quv resurslari bilan ishlashadi. Darslar texnologiyalar yordamida mustaqil ravishda o'tkaziladi, ammo sinfda yoki laboratoriyada bo'lish talab qilinadi
+
++++++
+
+Lab Rotation (Laboratoriya almashinuvi) modeli qanday model?
+====
+# Talabalar sinfda yoki laboratoriyada turli texnologik vositalar va o'quv resurslari bilan ishlashadi. Darslar texnologiyalar yordamida mustaqil ravishda o'tkaziladi, ammo sinfda yoki laboratoriyada bo'lish talab qilinadi
+====
+Bu modelda o'qishning katta qismi onlayn platformalar orqali amalga oshiriladi, o'qituvchi esa talabalar bilan aloqani qo'llab-quvvatlaydi va individual yordam ko'rsatadi. Talabalar o'zlarining o'qish yo'lini o'z vaqtlarida va o'z tempida boshqaradilar
+====
+Talabalar kichik guruhlarga bo'linib, turli "stansiyalar" bo'ylab aylanib, har bir stansiyada alohida o'quv faoliyati bilan shug'ullanadilar. Stansiyalar ichida texnologiyadan foydalaniladigan qismlar (masalan, onlayn resurslar bilan ishlash), shuningdek, o'qituvchi bilan bevosita muloqot yoki guruh faoliyati kabi qism bo'lishi mumkin
+====
+Bu modelda o'quv jarayoni ag'darilgan: an'anaviy sinfda amalga oshiriladigan darslar talabalar tomonidan mustaqil ravishda onlayn ko'rib chiqiladi, masalan, dars videolari yoki materiallar uyga vazifa sifatida beriladi. Sinfda esa talabalar bilan amaliy mashg'ulotlar, munozaralar va loyihalar o'tkaziladi.
+
++++++
+
+Self-Blend (O'z-o'zini aralashtirish) modeli qanday model?
+====
+# Bu modelda talabalar an'anaviy sinfda o'qishni onlayn darslar yoki kurslar bilan mustaqil ravishda birlashtiradilar. Talaba o'zi tanlagan qo'shimcha onlayn kurslarni an'anaviy ta'lim bilan paralel olib boradi. Bu model asosan yuqori sinflar yoki universitet darajasidagi talabalar uchun mos keladi
+====
+Talabalar sinfda yoki laboratoriyada turli texnologik vositalar va o'quv resurslari bilan ishlashadi. Darslar texnologiyalar yordamida mustaqil ravishda o'tkaziladi, ammo sinfda yoki laboratoriyada bo'lish talab qilinadi
+====
+Bu modelda o'qishning katta qismi onlayn platformalar orqali amalga oshiriladi, o'qituvchi esa talabalar bilan aloqani qo'llab-quvvatlaydi va individual yordam ko'rsatadi. Talabalar o'zlarining o'qish yo'lini o'z vaqtlarida va o'z tempida boshqaradilar
+====
+Talabalar kichik guruhlarga bo'linib, turli "stansiyalar" bo'ylab aylanib, har bir stansiyada alohida o'quv faoliyati bilan shug'ullanadilar. Stansiyalar ichida texnologiyadan foydalaniladigan qismlar (masalan, onlayn resurslar bilan ishlash), shuningdek, o'qituvchi bilan bevosita muloqot yoki guruh faoliyati kabi qism bo'lishi mumkin
+
++++++
+
+Aralash ta'limda o'qituvchining 4-roli qanday?
+====
+# O'quv motivator va o'z-o'zini boshqarishga undovchi
+====
+Ma'lumotlar tahlilchisi
+====
+Texnologik vositalar bo'yicha maslahatchi
+====
+Fasilitator (yo'riqchi)
+
++++++
+
+Project-Based Blended Learning (Loyihaga asoslangan aralash ta'lim) modeli qanday model?
+====
+# Ushbu model talabalarni real hayotiy loyihalar orqali o'qitishga asoslangan. An'anaviy va onlayn ta'lim birgalikda ishlatiladi, bu esa talabalarni turli mavzular bo'yicha amaliy bilim olishiga yordam beradi. Talabalar real muammolarni hal qilish uchun jamoaviy loyihalar ustida ishlaydilar va o'z bilimlarini amalda qo'llashadi
+====
+Bu modelda talabalar an'anaviy sinfda o'qishni onlayn darslar yoki kurslar bilan mustaqil ravishda birlashtiradilar. Talaba o'zi tanlagan qo'shimcha onlayn kurslarni an'anaviy ta'lim bilan paralel olib boradi. Bu model asosan yuqori sinflar yoki universitet darajasidagi talabalar uchun mos keladi
+====
+Talabalar sinfda yoki laboratoriyada turli texnologik vositalar va o'quv resurslari bilan ishlashadi. Darslar texnologiyalar yordamida mustaqil ravishda o'tkaziladi, ammo sinfda yoki laboratoriyada bo'lish talab qilinadi
+====
+Bu modelda o'qishning katta qismi onlayn platformalar orqali amalga oshiriladi, o'qituvchi esa talabalar bilan aloqani qo'llab-quvvatlaydi va individual yordam ko'rsatadi. Talabalar o'zlarining o'qish yo'lini o'z vaqtlarida va o'z tempida boshqaradilar
+
++++++
+
+Gamified Blended Learning modeli qanday model?
+====
+# Ushbu model o'qitish jarayonida o'yin elementlarini qo'llaydi. Talabalar sinfda va onlayn tarzda o'qiyotganda o'quv materiali o'yinlarga asoslangan topshiriqlar, sinovlar yoki musobaqalar bilan o'zlashtiriladi. Talabalar o'quv jarayonini ko'proq motivatsiya va ishtiyoq bilan amalga oshiradilar, chunki o'yin elementlari ularning faolligini oshiradi.
+====
+Ushbu model talabalarni real hayotiy loyihalar orqali o'qitishga asoslangan. An'anaviy va onlayn ta'lim birgalikda ishlatiladi, bu esa talabalarni turli mavzular bo'yicha amaliy bilim olishiga yordam beradi. Talabalar real muammolarni hal qilish uchun jamoaviy loyihalar ustida ishlaydilar va o'z bilimlarini amalda qo'llashadi
+====
+Bu modelda talabalar an'anaviy sinfda o'qishni onlayn darslar yoki kurslar bilan mustaqil ravishda birlashtiradilar. Talaba o'zi tanlagan qo'shimcha onlayn kurslarni an'anaviy ta'lim bilan paralel olib boradi. Bu model asosan yuqori sinflar yoki universitet darajasidagi talabalar uchun mos keladi
+====
+Talabalar sinfda yoki laboratoriyada turli texnologik vositalar va o'quv resurslari bilan ishlashadi. Darslar texnologiyalar yordamida mustaqil ravishda o'tkaziladi, ammo sinfda yoki laboratoriyada bo'lish talab qilinadi
+
++++++
+
+Unicraft qanday platforma?
+====
+# Ta'limni boshqarish va onlayn kurslarni ishlab chiqish platformasi.
+====
+onlayn kurslarni o'tash uchun o'zingizning mobil ilovangizni yaratish qobiliyati.
+====
+Platforma o'zini avtomatlashtirilgan axborot biznesi tizimi sifatida ko'rsatadi.
+====
+Axborot kurslarini sotish va masofaviy ta'limni o'tkazish uchun onlayn platforma.
+
++++++
+
+Gurucan qanday platforma?
+====
+# onlayn kurslarni o'tash uchun o'zingizning mobil ilovangizni yaratish qobiliyati. 
+====
+Ta'limni boshqarish va onlayn kurslarni ishlab chiqish platformasi.
+====
+Axborot kurslarini sotish va masofaviy ta'limni o'tkazish uchun onlayn platforma.
+====
+Platforma o'zini avtomatlashtirilgan axborot biznesi tizimi sifatida ko'rsatadi
+
++++++
+
+GetCourse qanday platforma?
+====
+# Axborot kurslarini sotish va masofaviy ta'limni o'tkazish uchun onlayn platforma.
+====
+onlayn kurslarni o'tash uchun o'zingizning mobil ilovangizni yaratish qobiliyati.
+====
+Ta'limni boshqarish va onlayn kurslarni ishlab chiqish platformasi.
+====
+Onlayn maktablarni ishga tushirish uchun platforma.
+
++++++
+
+Fasilitator (yo'riqchi) aralash ta’limda o‘qituvchining nechanchi roli hisoblanadi?
+====
+# 1-ro‘li
+====
+2-ro‘li
+====
+3-ro‘li
+====
+4-ro‘li
+
++++++
+
+… - bu o'quv jarayonini tashkil etish printsipi bo'lib, uni amalga oshirishda talaba o'zining shaxsiy ta'lim ehtiyojlari va kognitiv manfaatlarini hisobga olgan holda ta'lim mazmuni, usullari va o'rganish tezligini tanlashga ta'sir qilishi mumkin
+====
+# Shaxsiylashtirish
+====
+Baholash
+====
+Sinxronlash
+====
+Differensial ta’lim
+
++++++
+
+Shaxsiylashtirish nima?
+====
+# bu o'quv jarayonini tashkil etish printsipi bo'lib, uni amalga oshirishda talaba o'zining shaxsiy ta'lim ehtiyojlari va kognitiv manfaatlarini hisobga olgan holda ta'lim mazmuni, usullari va o'rganish tezligini tanlashga ta'sir qilishi mumkin
+====
+bir xil dars mavzusida bir necha turdagi mashg‘ulotlarni tayyorlash mumkin – asosiy mavzular, qo‘shimcha chuqurlashtirilgan materiallar va ko‘p qiyinchilik tug‘diradigan mavzularni o‘z ichiga olgan turli o‘yinlar, testlar, interaktiv vazifalar
+====
+O‘qituvchi va o‘quvchilar bir vaqtning o‘zida onlayn yoki sinfda uchrashishadi. Masalan, Zoom orqali real vaqt rejimida mashg‘ulot o‘tkazish
+====
+O‘quvchilar o‘zlariga qulay bo‘lgan vaqtda o‘quv materiallarini mustaqil ravishda o‘zlashtiradilar. Masalan, oldindan yozib qo‘yilgan video ma'ruzalarni ko‘rish, bloglar orqali savollarga javob berish
+
++++++
+
+Aralash ta’limda o‘quv faoliyatini rejalashtirishning asosiy jihatlari nechta?
+====
+# 6 ta
+====
+5 ta
+====
+3 ta
+====
+4 ta
+
++++++
+
+Differensial ta'lim moduli qanday?
+====
+# bir xil dars mavzusida bir necha turdagi mashg‘ulotlarni tayyorlash mumkin – asosiy mavzular, qo‘shimcha chuqurlashtirilgan materiallar va ko‘p qiyinchilik tug‘diradigan mavzularni o‘z ichiga olgan turli o‘yinlar, testlar, interaktiv vazifalar
+====
+o‘qituvchi va o‘quvchilar bir vaqtning o‘zida onlayn yoki sinfda uchrashishadi. Masalan, Zoom orqali real vaqt rejimida mashg‘ulot o‘tkazish
+====
+O‘quvchilar o‘zlariga qulay bo‘lgan vaqtda o‘quv materiallarini mustaqil ravishda o‘zlashtiradilar. Masalan, oldindan yozib qo‘yilgan video ma'ruzalarni ko‘rish, bloglar orqali savollarga javob berish
+====
+bu o'quv jarayonini tashkil etish printsipi bo'lib, uni amalga oshirishda talaba o'zining shaxsiy ta'lim ehtiyojlari va kognitiv manfaatlarini hisobga olgan holda ta'lim mazmuni, usullari va o'rganish tezligini tanlashga ta'sir qilishi mumkin
+
++++++
+
+Sinxron darslar qanday darslar hisoblanadi?
+====
+# O‘qituvchi va o‘quvchilar bir vaqtning o‘zida onlayn yoki sinfda uchrashishadi. Masalan, Zoom orqali real vaqt rejimida mashg‘ulot o‘tkazish
+====
+bir xil dars mavzusida bir necha turdagi mashg‘ulotlarni tayyorlash mumkin – asosiy mavzular, qo‘shimcha chuqurlashtirilgan materiallar va ko‘p qiyinchilik tug‘diradigan mavzularni o‘z ichiga olgan turli o‘yinlar, testlar, interaktiv vazifalar
+====
+O‘quvchilar o‘zlariga qulay bo‘lgan vaqtda o‘quv materiallarini mustaqil ravishda o‘zlashtiradilar. Masalan, oldindan yozib qo‘yilgan video ma'ruzalarni ko‘rish, bloglar orqali savollarga javob berish
+====
+bu o'quv jarayonini tashkil etish printsipi bo'lib, uni amalga oshirishda talaba o'zining shaxsiy ta'lim ehtiyojlari va kognitiv manfaatlarini hisobga olgan holda ta'lim mazmuni, usullari va o'rganish tezligini tanlashga ta'sir qilishi mumkin
+
++++++
+
+Multimedia necha guruhga bo‘linadi?
+====
+# 2
+====
+3
+====
+4
+====
+5
+
++++++
+
+Asinxron darslar qanday darslar hisoblanadi
+====
+# O‘quvchilar o‘zlariga qulay bo‘lgan vaqtda o‘quv materiallarini mustaqil ravishda o‘zlashtiradilar. Masalan, oldindan yozib qo‘yilgan video ma'ruzalarni ko‘rish, bloglar orqali savollarga javob berish
+====
+O‘qituvchi va o‘quvchilar bir vaqtning o‘zida onlayn yoki sinfda uchrashishadi. Masalan, Zoom orqali real vaqt rejimida mashg‘ulot o‘tkazish
+====
+bir xil dars mavzusida bir necha turdagi mashg‘ulotlarni tayyorlash mumkin – asosiy mavzular, qo‘shimcha chuqurlashtirilgan materiallar va ko‘p qiyinchilik tug‘diradigan mavzularni o‘z ichiga olgan turli o‘yinlar, testlar, interaktiv vazifalar
+====
+bu o'quv jarayonini tashkil etish printsipi bo'lib, uni amalga oshirishda talaba o'zining shaxsiy ta'lim ehtiyojlari va kognitiv manfaatlarini hisobga olgan holda ta'lim mazmuni, usullari va o'rganish tezligini tanlashga ta'sir qilishi mumkin
+
++++++
+
+bir xil dars mavzusida bir necha turdagi mashg‘ulotlarni tayyorlash mumkin – asosiy mavzular, qo‘shimcha chuqurlashtirilgan materiallar va ko‘p qiyinchilik tug‘diradigan mavzularni o‘z ichiga olgan turli o‘yinlar, testlar, interaktiv vazifalar.Bu qanday ta’lim moduli?
+====
+# Differensial ta'lim moduli
+====
+Sinxron darslar
+====
+Asinxron darslar
+====
+Ko‘p tarmoqli ta’li moduli
+
++++++
+
+O‘qituvchi va o‘quvchilar bir vaqtning o‘zida onlayn yoki sinfda uchrashishadi. Masalan, Zoom orqali real vaqt rejimida mashg‘ulot o‘tkazish.Bu qanday darslar?
+====
+# Sinxron darslar
+====
+Asinxron darslar
+====
+Differensial ta'lim moduli
+====
+Ko‘p tarmoqli ta’li moduli
+
++++++
+
+O‘quvchilar o‘zlariga qulay bo‘lgan vaqtda o‘quv materiallarini mustaqil ravishda o‘zlashtiradilar. Masalan, oldindan yozib qo‘yilgan video ma'ruzalarni ko‘rish, bloglar orqali savollarga javob berish.Bu qanday darslar?
+====
+# Asinxron darslar
+====
+Sinxron darslar
+====
+Differensial ta'lim moduli
+====
+Ko‘p tarmoqli ta’li moduli
+
++++++
+
+Aralash ta'limda o'qituvchining 1-roli qanday?
+====
+# Fasilitator (yo'riqchi)
+====
+Texnologik vositalar bo'yicha maslahatchi
+====
+Ma'lumotlar tahlilchisi
+====
+O'quv motivator va o'z-o'zini boshqarishga undovchi
+
++++++
+
+Aralash ta'limda o'qituvchining 2-roli qanday?
+====
+# Texnologik vositalar bo'yicha maslahatchi
+====
+Fasilitator (yo'riqchi)
+====
+Ma'lumotlar tahlilchisi
+====
+O'quv motivator va o'z-o'zini boshqarishga undovchi
+
++++++
+
+Aralash ta'limda o'qituvchining 3-roli qanday?
+====
+# Ma'lumotlar tahlilchisi
+====
+Fasilitator (yo'riqchi)
+====
+Texnologik vositalar bo'yicha maslahatchi
+====
+O'quv motivator va o'z-o'zini boshqarishga undovchi
+
++++++
+
+Diskussiya (munozara) qanday metod?
+====
+# dars davomida o‘quvchilar o‘rtasida fikr almashinadigan faol metoddir. Bu usul o‘quvchilarga mavzu bo‘yicha o‘z fikrlarini ifodalash va boshqalarning nuqtai nazarini tushunish imkonini beradi.
+====
+ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+====
+dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+====
+birgalikda yangi g‘oyalar va echimlarni topishga qaratilgan. Har kim o‘z g‘oyalarini o‘rtaga tashlaydi va umumiy yechim topish uchun takliflar baholanadi.
+
++++++
+
+Debat qanday metod?
+====
+# ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+====
+dars davomida o‘quvchilar o‘rtasida fikr almashinadigan faol metoddir. Bu usul o‘quvchilarga mavzu bo‘yicha o‘z fikrlarini ifodalash va boshqalarning nuqtai nazarini tushunish imkonini beradi
+====
+dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+====
+birgalikda yangi g‘oyalar va echimlarni topishga qaratilgan. Har kim o‘z g‘oyalarini o‘rtaga tashlaydi va umumiy yechim topish uchun takliflar baholanadi.
+
++++++
+
+Rolli o‘yinlar qanday metod?
+====
+# dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+====
+dars davomida o‘quvchilar o‘rtasida fikr almashinadigan faol metoddir. Bu usul o‘quvchilarga mavzu bo‘yicha o‘z fikrlarini ifodalash va boshqalarning nuqtai nazarini tushunish imkonini beradi
+====
+ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+====
+birgalikda yangi g‘oyalar va echimlarni topishga qaratilgan. Har kim o‘z g‘oyalarini o‘rtaga tashlaydi va umumiy yechim topish uchun takliflar baholanadi.
+
++++++
+
+Aqliy xujum qanday metod?
+====
+# birgalikda yangi g‘oyalar va echimlarni topishga qaratilgan. Har kim o‘z g‘oyalarini o‘rtaga tashlaydi va umumiy yechim topish uchun takliflar baholanadi.
+====
+dars davomida o‘quvchilar o‘rtasida fikr almashinadigan faol metoddir. Bu usul o‘quvchilarga mavzu bo‘yicha o‘z fikrlarini ifodalash va boshqalarning nuqtai nazarini tushunish imkonini beradi.
+====
+ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+====
+dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+
++++++
+
+Aralash ta'lim metodlari qaysi asrda keng tarqalgan?
+====
+#21-asrda
+====
+20-asrda
+====
+19-asrda
+====
+18-asrda
+
++++++
+
+… - ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+====
+# Debat
+====
+Diskussiya (munozara)
+====
+Rolli o‘yinlar
+====
+Aqliy xujum
+
++++++
+
+… - dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+====
+# Rolli o‘yinlar
+====
+Diskussiya (munozara)
+====
+Debat
+====
+Aqliy hujum
+
++++++
+
+… - birgalikda yangi g‘oyalar va echimlarni topishga qaratilgan. Har kim o‘z g‘oyalarini o‘rtaga tashlaydi va umumiy yechim topish uchun takliflar baholanadi.
+====
+# Aqliy hujum
+====
+Diskussiya (munozara)
+====
+Debat
+====
+Rolli o‘yinlar
+
++++++
+
+Klasterlash (Cluster Method) qanday metod?
+====
+# Bu uslubda o‘quvchilar ma'lum bir asosiy mavzuni olib, uning asosida turli g‘oyalar yoki kichik mavzularni guruhlarga ajratadi. O‘quvchilar o‘z fikrlarini tartibga solib, ularni grafik tarzda ko‘rsatadilar
+====
+Bu metodda o‘quvchilarga ma'lum bir real hayotiy vaziyat beriladi va ular ushbu vaziyatni tahlil qilib, muammolarni hal qilish yo‘llarini izlaydilar. Bu uslub nazariy bilimlarni amaliy hayot bilan bog‘lash imkonini beradi
+====
+Bu uslubda o‘quvchilar ma'lum bir matn yoki mavzu bo‘yicha savol-javob tarzida tahlil olib boradilar. Ular o‘z fikrlarini mantiqiy va asoslangan holda ifodalashni o‘rganadilar, savollar berish va ularga javob izlash ko‘nikmalarini rivojlantiradilar
+====
+Ushbu yondashuv o‘quvchilarga muammoga asoslangan o‘quv jarayonini taklif etadi. Ular muammoni tahlil qiladi, ma'lumot to‘playdi va echim ishlab chiqadi. Bu usul talabalarning mustaqil fikrlash qobiliyatini oshiradi va real hayotiy muammolarni yechishga undaydi
+
++++++
+
+Case Study (Vaziyat tahlili) qanday metod?
+====
+# Bu metodda o‘quvchilarga ma'lum bir real hayotiy vaziyat beriladi va ular ushbu vaziyatni tahlil qilib, muammolarni hal qilish yo‘llarini izlaydilar. Bu uslub nazariy bilimlarni amaliy hayot bilan bog‘lash imkonini beradi
+====
+Bu uslubda o‘quvchilar ma'lum bir asosiy mavzuni olib, uning asosida turli g‘oyalar yoki kichik mavzularni guruhlarga ajratadi. O‘quvchilar o‘z fikrlarini tartibga solib, ularni grafik tarzda ko‘rsatadilar
+====
+Bu uslubda o‘quvchilar ma'lum bir matn yoki mavzu bo‘yicha savol-javob tarzida tahlil olib boradilar. Ular o‘z fikrlarini mantiqiy va asoslangan holda ifodalashni o‘rganadilar, savollar berish va ularga javob izlash ko‘nikmalarini rivojlantiradilar
+====
+Ushbu yondashuv o‘quvchilarga muammoga asoslangan o‘quv jarayonini taklif etadi. Ular muammoni tahlil qiladi, ma'lumot to‘playdi va echim ishlab chiqadi. Bu usul talabalarning mustaqil fikrlash qobiliyatini oshiradi va real hayotiy muammolarni yechishga undaydi
+
++++++
+
+Sokratik seminarlar (Socratic Seminars) qanday metod?
+====
+# Bu uslubda o‘quvchilar ma'lum bir matn yoki mavzu bo‘yicha savol-javob tarzida tahlil olib boradilar. Ular o‘z fikrlarini mantiqiy va asoslangan holda ifodalashni o‘rganadilar, savollar berish va ularga javob izlash ko‘nikmalarini rivojlantiradilar
+====
+Bu uslubda o‘quvchilar ma'lum bir asosiy mavzuni olib, uning asosida turli g‘oyalar yoki kichik mavzularni guruhlarga ajratadi. O‘quvchilar o‘z fikrlarini tartibga solib, ularni grafik tarzda ko‘rsatadilar
+====
+Bu metodda o‘quvchilarga ma'lum bir real hayotiy vaziyat beriladi va ular ushbu vaziyatni tahlil qilib, muammolarni hal qilish yo‘llarini izlaydilar. Bu uslub nazariy bilimlarni amaliy hayot bilan bog‘lash imkonini beradi
+====
+Ushbu yondashuv o‘quvchilarga muammoga asoslangan o‘quv jarayonini taklif etadi. Ular muammoni tahlil qiladi, ma'lumot to‘playdi va echim ishlab chiqadi. Bu usul talabalarning mustaqil fikrlash qobiliyatini oshiradi va real hayotiy muammolarni yechishga undaydi
+
++++++
+
+Problem-based Learning (PBL) qanyda metod?
+====
+# Ushbu yondashuv o‘quvchilarga muammoga asoslangan o‘quv jarayonini taklif etadi. Ular muammoni tahlil qiladi, ma'lumot to‘playdi va echim ishlab chiqadi. Bu usul talabalarning mustaqil fikrlash qobiliyatini oshiradi va real hayotiy muammolarni yechishga undaydi
+====
+Bu uslubda o‘quvchilar ma'lum bir matn yoki mavzu bo‘yicha savol-javob tarzida tahlil olib boradilar. Ular o‘z fikrlarini mantiqiy va asoslangan holda ifodalashni o‘rganadilar, savollar berish va ularga javob izlash ko‘nikmalarini rivojlantiradilar
+====
+Bu metodda o‘quvchilarga ma'lum bir real hayotiy vaziyat beriladi va ular ushbu vaziyatni tahlil qilib, muammolarni hal qilish yo‘llarini izlaydilar. Bu uslub nazariy bilimlarni amaliy hayot bilan bog‘lash imkonini beradi
+====
+Bu uslubda o‘quvchilar ma'lum bir asosiy mavzuni olib, uning asosida turli g‘oyalar yoki kichik mavzularni guruhlarga ajratadi. O‘quvchilar o‘z fikrlarini tartibga solib, ularni grafik tarzda ko‘rsatadilar
+
++++++
+
+Bu uslubda o‘quvchilar ma'lum bir asosiy mavzuni olib, uning asosida turli g‘oyalar yoki kichik mavzularni guruhlarga ajratadi. O‘quvchilar o‘z fikrlarini tartibga solib, ularni grafik tarzda ko‘rsatadilar.Bu qanday metod?
+====
+# Klasterlash (Cluster Method)
+====
+Case Study (Vaziyat tahlili)
+====
+Sokratik seminarlar (Socratic Seminars)
+====
+Problem-based Learning (PBL)
+
++++++
+
+Bu metodda o‘quvchilarga ma'lum bir real hayotiy vaziyat beriladi va ular ushbu vaziyatni tahlil qilib, muammolarni hal qilish yo‘llarini izlaydilar. Bu uslub nazariy bilimlarni amaliy hayot bilan bog‘lash imkonini beradi.Bu qanday metod?
+====
+# Case Study (Vaziyat tahlili)
+====
+Klasterlash (Cluster Method)
+====
+Sokratik seminarlar (Socratic Seminars)
+====
+Problem-based Learning (PBL)
+
++++++
+
+Bu uslubda o‘quvchilar ma'lum bir matn yoki mavzu bo‘yicha savol-javob tarzida tahlil olib boradilar. Ular o‘z fikrlarini mantiqiy va asoslangan holda ifodalashni o‘rganadilar, savollar berish va ularga javob izlash ko‘nikmalarini rivojlantiradilar.Bu qanday metod?
+====
+# Sokratik seminarlar (Socratic Seminars)
+====
+Klasterlash (Cluster Method)
+====
+Case Study (Vaziyat tahlili)
+====
+Problem-based Learning (PBL)
+
++++++
+
+Ushbu yondashuv o‘quvchilarga muammoga asoslangan o‘quv jarayonini taklif etadi. Ular muammoni tahlil qiladi, ma'lumot to‘playdi va echim ishlab chiqadi. Bu usul talabalarning mustaqil fikrlash qobiliyatini oshiradi va real hayotiy muammolarni yechishga undaydi.Bu qanday metod?
+====
+# Problem-based Learning (PBL)
+====
+Klasterlash (Cluster Method)
+====
+Case Study (Vaziyat tahlili)
+====
+Sokratik seminarlar (Socratic Seminars)
+
++++++
+
+… - bu kontentning bir nechta axborot kanallari orqali insonga ta'siri: vizual, eshitish, taktil, mushak, vestibulyar.
+====
+# Multimedia
+====
+Interfaol metod
+====
+O‘yinlashtirish
+====
+Animatsiya
+
++++++
+
+Chiziqli multimedia qanday bo‘ladi?
+====
+# interaktiv bo'lmagan multimedia. Foydalanuvchi bunday multimediani nazorat qila olmaydi yoki ular bilan o'zaro aloqada bo'la olmaydi
+====
+bu ma'lumotlar mantiqiy yoki assotsiativ ravishda giperhavolalar orqali bog'langan axborotni tashkil qilish printsipi
+====
+bu kontentning bir nechta axborot kanallari orqali insonga ta'siri
+====
+interaktiv bo'lgan multimedia. Foydalanuvchi bunday multimediani nazorat qila oladi yoki ular bilan o'zaro aloqada bo'la oladi
+
++++++
+
+Vannevar Bush MEMECH mashinasi kontseptsiyasini qachon taklif qilgan?
+====
+#1945 
+====
+1940
+====
+1942
+====
+1939
+
++++++
+
+Birinchi kompyuter OXO mantiqiy o'yinini qachon paydo bo'lgan?
+====
+# 1952
+====
+1945
+====
+1955
+====
+1960
+
++++++
+
+Morton Heilig Sensorama deb nomlangan birinchi VR qurilmasi qachon taqdim qilgan?
+====
+# 1962
+====
+1945
+====
+1955
+====
+1945
+
++++++
+
+Aralash ta'limning asosiy komponentlari qanday?
+====
+#yuzma-yuz darslar va onlayn o'rganish
+====
+yuzma-yuz darslar
+====
+onlayn o'rganish
+====
+kitoblarni o'qish
+
++++++
+
+Aralash ta'limda ta'lim sifatini oshirish uchun qanday strategiyalar mavjud?
+====
+#moslashuvchan ta'lim dasturlari va onlayn resurslardan samarali foydalanish
+====
+moslashuvchan ta'lim dasturlari
+====
+  onlayn resurslar
+====
+  yuzma-yuz darslar
+
++++++
+
+ Aralash ta'limda talaba tomonidan ijro etilishi kerak bo'lgan eng muhim vazifa nima?
+====
+#o'z vaqtini samarali boshqarish
+====
+har kuni o'qituvchi bilan muloqot qilish
+====
+  darslarni kuzatish
+====
+  onlayn darslarni ko'rish
+
++++++
+
+Aralash ta'limning ta'lim jarayoniga qanday ta'siri bor?
+====
+#talabalarning faolligini oshiradi va mustaqil o'qish imkoniyatini beradi
+====
+talabalarning faolligini pasaytiradi
+====
+  o'qituvchiga bog'liq bo'lishni talab qiladi
+====
+mustaqil o'qishni kamaytiradi
+
++++++
+
+Aralash ta'limda yuzma-yuz darslarning roli nimada?
+====
+#talabalarning o'zaro aloqasini kuchaytiradi va o'rganishni qo'llab-quvvatlaydi
+====
+  dars materiallarini etkazish
+====
+  imtihonlarni o'tkazish
+====
+talabalarni nazorat qilish
+
++++++
+
+Aralash ta'limda onlayn platformalarning afzalliklari nima?
+====
+#moslashuvchanlik va turli o'rganish uslublarini qo'llab-quvvatlash
+====
+  materiallarni tez etkazish
+====
+  darslarni yozib olish
+====
+talabalarning faolligini kamaytirish
+
++++++
+
+ Aralash ta'limda qanday texnologiyalardan foydalaniladi?
+====
+#videodarsliklar, virtual sinflar va onlayn ta'lim platformalari
+====
+  videodarsliklar
+====
+  virtual sinflar
+====
+  onlayn ta'lim platformalari
+
++++++
+
+Aralash ta'limda talabalar ishtirokini oshirish uchun qanday usullar qo'llaniladi?
+====
+#interaktiv darslar va onlayn muloqot vositalari
+====
+  interaktiv darslar
+====
+  onlayn muloqot vositalari
+====
+  yuzma-yuz darslar
+
++++++
+
+Aralash ta'limda vaqtni samarali boshqarish nima uchun muhim?
+====
+#talabaning muvaffaqiyatiga to'g'ridan-to'g'ri ta'sir qiladi
+====
+  o'qituvchi uchun muhim
+====
+  dars rejasini tuzish uchun
+====
+  imtihonlar uchun
+
++++++
+
+Aralash ta'limda qo'llaniladigan pedagogik yondashuvlar qanday?
+====
+#faol o'rganish, kolaborativ o'rganish va mustaqil tadqiqotlar
+====
+  faol o'rganish
+====
+  kolaborativ o'rganish
+====
+  mustaqil tadqiqotlar
+
++++++
+
+Aralash ta'limda texnologiya va pedagogika qanday o'zaro bog'liq?
+====
+#texnologiya pedagogik jarayonlarni qo'llab-quvvatlaydi va boyitadi
+====
+texnologiya   darslarni osonlashtiradi
+====
+pedagogika texnologiyadan ustun
+====
+ular orasida hech qanday bog'liqlik yo'q
+
++++++
+
+Aralash ta'limda o'qituvchilarning roli qanday o'zgaradi?
+====
+#o'qituvchilar ko'proq fasilitator va yo'riqnoma beruvchi rolini bajaradi
+====
+o'qituvchilar darslarni boshqarishni davom ettiradi
+====
+o'qituvchilar   baho qo'yishga e'tibor beradi
+====
+o'qituvchilar   texnologiyani boshqaradi
+
++++++
+
+Aralash ta'limda talabalar faolligini oshirish uchun qanday strategiyalar qo'llaniladi?
+====
+#interaktiv va moslashuvchan ta'lim metodlari
+====
+  an'anaviy ta'lim metodlari
+====
+  online ta'lim metodlari
+====
+darslarni yanada qisqartirish
+
++++++
+
+Aralash ta'limda turli o'rganish uslublarini qanday qo'llab-quvvatlash mumkin?
+====
+#turli xil resurslar va faoliyatlar orqali
+====
+  kitoblar orqali
+====
+  videodarsliklar orqali
+====
+  imtihonlar orqali
+
++++++
+
+Aralash ta'limda talabalarning o'zaro aloqasi qanday yo'llar bilan amalga oshiriladi?
+====
+#virtual sinflar va guruh loyihalari orqali
+====
+  individual ishlash orqali
+====
+  imtihonlar orqali
+====
+  o'qituvchi bilan aloqa orqali
+
++++++
+
+Aralash ta'limda moslashuvchanlikni oshirish uchun qanday texnologiyalar mavjud?
+====
+#mobil ilovalar va bulutli saqlash tizimlari
+====
+  personal kompyuterlar
+====
+  videokonferensiyalar
+====
+  dars rejalari
+
++++++
+
+Aralash ta'limda talabaning muvaffaqiyatiga qanday omillar ta'sir qiladi?
+====
+#moslashuvchan ta'lim va individual yondashuv
+====
+  o'qituvchining tajribasi
+====
+  darsning mavzusi
+====
+  imtihonlarning murakkabligi
+
++++++
+
+Aralash ta'limda onlayn ta'lim platformalarining afzalliklari nimada?
+====
+#moslashuvchan va oson foydalanish
+====
+  materiallarni saqlash
+====
+  imtihonlar o'tkazish
+====
+  talabalar bilan aloqa
+
++++++
+
+Aralash ta'limda talabalar tomonidan bajarilishi kerak bo'lgan eng muhim mas'uliyat nima?
+====
+#o'z vaqtini boshqarish va topshiriqlarni vaqtida bajarish
+====
+  darslarga qatnashish
+====
+  imtihonlarga tayyorlanish
+====
+  o'qituvchi bilan muloqot qilish
+
++++++
+
+Aralash ta'limning kamchiliklari nimada?
+====
+#texnologik muammolar va talabalar o'z-o'zidan o'rganish qiyinchiliklari
+====
+talabalar bilan bevosita aloqa yo'qligi
+====
+darslarning juda qisqa bo'lishi
+====
+mavzularni to'liq yoritmaslik
+
++++++
+
+Aralash ta'limda o'qituvchilarning yangi roliga qanday moslashish kerak?
+====
+#doimiy o'qitish va texnologik ko'nikmalarni oshirish
+====
+  texnologiyalardan foydalanish
+====
+  darslarni rejalashtirish
+====
+  talabalarning baholarini nazorat qilish
+
++++++
+
+Aralash ta'limda o'qitishning samaradorligini qanday oshirish mumkin?
+====
+#talabalar ishtirokini oshirish va moslashuvchan dars rejalarini qo'llash
+====
+  onlayn darslarni o'tkazish
+====
+  yuzma-yuz darslarni o'tkazish
+====
+  imtihonlarni kuchaytirish
+
++++++
+
+Aralash ta'limda o'qituvchilarning yangi roliga qanday moslashish kerak?
+====
+#doimiy o'qitish va texnologik ko'nikmalarni oshirish
+====
+  texnologiyalardan foydalanish
+====
+  darslarni rejalashtirish
+====
+  talabalarning baholarini nazorat qilish
+
++++++
+
+Aralash ta'limning afzalliklari va imkoniyatlari nimada?
+====
+#moslashuvchanlik, turli o'rganish uslublarini qo'llab-quvvatlash va yuqori sifatli ta'lim
+====
+  moslashuvchanlik
+====
+  yuqori sifatli ta'lim
+====
+  turli o'rganish uslublarini qo'llab-quvvatlash
+
++++++
+
+Aralash ta'limda onlayn platformalarda qanday materiallardan foydalanish mumkin?
+====
+#videodarsliklar, elektron kitoblar va interaktiv mashqlar
+====
+  videodarsliklar
+====
+  elektron kitoblar
+====
+  interaktiv mashqlar
+
++++++
+
+Aralash ta'limda baholash qanday amalga oshiriladi?
+====
+#onlayn va yuzma-yuz imtihonlar, loyihalar va tadqiqotlar orqali
+====
+  onlayn imtihonlar
+====
+  yuzma-yuz imtihonlar
+====
+  loyihalar orqali
+
++++++
+
+Aralash ta'limda talabalarning motivatsiyasini qanday oshirish mumkin?
+====
+#moslashuvchan va qiziqarli ta'lim metodlari
+====
+  qattiq rejim
+====
+  onlayn darslar
+====
+  yuzma-yuz darslar
+
++++++
+
+Aralash ta'limda onlayn darslarning asosiy qiyinchiliklari nimada?
+====
+#texnologik muammolar va talabalar ishtirokini nazorat qilish
+====
+  texnologik muammolar
+====
+  talabalar ishtirokini nazorat qilish
+====
+  dars materiallarini tayyorlash
+
++++++
+
+Aralash ta'limda o'qituvchilar qanday qilib talabalar bilan samarali aloqa qilishlari mumkin?
+====
+#onlayn muloqot platformalari va yuzma-yuz uchrashuvlar orqali
+====
+  onlayn muloqot platformalari
+====
+  yuzma-yuz uchrashuvlar
+====
+  elektron pochta orqali
+
++++++
+
+Aralash ta'limda talabalar qanday qilib o'z o'rganishlarini boshqarishlari mumkin?
+====
+#rejalashtirish, o'zini nazorat qilish va o'qituvchi bilan muloqot qilish orqali
+====
+  rejalashtirish
+====
+  o'zini nazorat qilish
+====
+  o'qituvchi bilan muloqot qilish
+
++++++
+
+Aralash ta'lim metodlari qachon va qaysi tarmoqlar bilan rivojlana boshladi?
+====
+#2000-yillarda onlayn ta'lim platformalarining rivojlanishi bilan
+====
+1990-yillarda kompyuter texnologiyalarining rivojlanishi bilan
+====
+1980-yillarda video darslarning paydo bo'lishi bilan
+====
+2010-yillarda smartfonlar keng tarqalishi bilan
+
++++++
+
+Aralash ta'lim metodlari qanday texnologik yutuqlarga asoslangan?
+====
+#internet va onlayn ta'lim platformalari
+====
+  kompyuterlar
+====
+  video darslar
+====
+  mobil telefonlar
+
++++++
+
+Aralash ta'lim metodlari kim tomonidan birinchi marta qo'llanilgan?
+====
+#universitetlar va oliy ta'lim muassasalari
+====
+maktablar
+====
+korporatsiyalar
+====
+davlat organlari
+
++++++
+
+Aralash ta'lim metodlarining asosiy maqsadi nima?
+====
+#o'rganishni ko'proq moslashuvchan va individual qilish
+====
+  darslarni yengillashtirish
+====
+  baholash tizimini o'zgartirish
+====
+  imtihonlarni qo'llab-quvvatlash
+
++++++
+
+Aralash ta'lim metodlari qaysi modelga asoslangan?
+====
+#an'anaviy va onlayn ta'limni birlashtirish
+====
+  onlayn ta'limga
+====
+  an'anaviy ta'limga
+====
+  mustaqil o'rganishga
+
++++++
+
+Aralash ta'lim metodlarida o'qituvchilar qanday rol o'ynaydi?
+====
+#yo'riqnoma beruvchi va motivator sifatida
+====
+  dars o'tuvchi sifatida
+====
+  baholovchi sifatida
+====
+  texnologiya menejeri sifatida
+
++++++
+
+Aralash ta'lim metodlari qaysi yondashuvlarga asoslangan?
+====
+#faol va kollaborativ o'rganish yondashuvlari
+====
+  passiv o'rganish yondashuvlari
+====
+  mustaqil o'rganish yondashuvlari
+====
+  frontal o'rganish yondashuvlari
+
++++++
+
+Aralash ta'lim metodlarining tarixi qanday bosqichlarda rivojlangan?
+====
+#texnologik yutuqlar va pedagogik innovatsiyalar orqali
+====
+  texnologik yutuqlar orqali
+====
+  pedagogik innovatsiyalar orqali
+====
+  davlat siyosati orqali
+
++++++
+
+Aralash ta'lim metodlarida qanday platformalar qo'llaniladi?
+====
+#videokonferensiyalar, onlayn kurslar va virtual sinflar
+====
+  videokonferensiyalar
+====
+  onlayn kurslar
+====
+  virtual sinflar
+
++++++
+
+Aralash ta'lim metodlarining asosiy afzalliklari nimada?
+====
+#moslashuvchanlik va talabalarning faolligini oshirish
+====
+  darslarni qisqartirish
+====
+  baholashni soddalashtirish
+====
+  texnologiyadan foydalanish
+
++++++
+
+Aralash ta'lim metodlarida talabalarning ishtiroki qanday oshiriladi?
+====
+#interaktiv darslar va loyihalarga jalb qilish orqali
+====
+  darslarni kuzatish orqali
+====
+  imtihonlar orqali
+====
+  o'qituvchi bilan aloqa orqali
+
++++++
+
+Aralash ta'lim metodlarining qaysi elementlari talabalar uchun qiyinchilik tug'dirishi mumkin?
+====
+#texnologiyadan foydalanish va o'z-o'zini boshqarish
+====
+  darslarni tayyorlash
+====
+  o'qituvchi bilan muloqot
+====
+  imtihonlar
+
++++++
+
+Aralash ta'lim metodlarida qanday texnologiyalar qo'llaniladi?
+====
+#mobil ilovalar, bulutli saqlash va onlayn platformalar
+====
+  personal kompyuterlar
+====
+  kitoblar
+====
+  videokonferensiyalar
+
++++++
+
+Aralash ta'lim metodlarida o'qituvchilar qanday ko'nikmalarga ega bo'lishlari kerak?
+====
+#texnologik bilimlar va o'quv strategiyalari
+====
+  texnologik bilimlar
+====
+  o'quv strategiyalari
+====
+  baholash ko'nikmalari
+
++++++
+
+Aralash ta'lim metodlarida talabalar qanday resurslardan foydalanadilar?
+====
+#elektron kitoblar, videodarslar va interaktiv materiallar
+====
+  elektron kitoblar
+====
+  videodarslar
+====
+  interaktiv materiallar
+
++++++
+
+Aralash ta'lim metodlarida talabalarning muvaffaqiyati qanday baholanadi?
+====
+#imtihonlar, loyihalar va faoliyatlari orqali
+====
+  imtihonlar
+====
+  loyihalar
+====
+  faoliyatlari
+
++++++
+
+Aralash ta'lim metodlarida qanday pedagogik yondashuvlar qo'llaniladi?
+====
+#faol, kollaborativ va moslashuvchan o'rganish
+====
+  faol o'rganish
+====
+  kollaborativ o'rganish
+====
+  moslashuvchan o'rganish
+
++++++
+
+Aralash ta'lim metodlarida talabalarning o'zini o'zi boshqarishi qanchalik muhim?
+====
+#talabaning muvaffaqiyati uchun muhim
+====
+  darslarda qatnashish uchun muhim
+====
+  o'qituvchini nazorat qilish uchun muhim
+====
+  imtihonlar uchun muhim
+
++++++
+
+Aralash ta'lim metodlarida talabalarning o'rganish tajribasi qanday yaxshilanadi?
+====
+#interaktiv va shaxsiylashtirilgan o'rganish
+====
+  darslarni kuzatish orqali
+====
+  o'qituvchi bilan muloqot orqali
+====
+  imtihonlar orqali
+
++++++
+
+Aralash ta'lim metodlarida qanday pedagogik innovatsiyalar qo'llaniladi?
+====
+#onlayn platformalar va virtual sinflar
+====
+  onlayn platformalar
+====
+  virtual sinflar
+====
+  dars kitoblari
+
++++++
+
+Aralash ta'lim metodlarida vaqtni boshqarish qanchalik muhim?
+====
+#talabaning muvaffaqiyati uchun juda muhim
+====
+  o'qituvchining ishi uchun muhim
+====
+  dars rejalashtirish uchun muhim
+====
+  imtihonlar uchun muhim
+
++++++
+
+Aralash ta'lim metodlarida o'qituvchilarning yangi roliga qanday moslashish kerak?
+====
+#doimiy o'qitish va texnologik ko'nikmalarni oshirish
+====
+  texnologiyalardan foydalanish
+====
+  darslarni rejalashtirish
+====
+  talabalarning baholarini nazorat qilish
+
++++++
+
+Aralash ta'lim metodlarida talabalarning motivatsiyasi qanday oshiriladi?
+====
+#moslashuvchan va qiziqarli ta'lim metodlari
+====
+  qattiq rejim
+====
+  onlayn darslar
+====
+  yuzma-yuz darslar
+
++++++
+
+Aralash ta'lim metodlarida onlayn darslarning asosiy qiyinchiliklari nimada?
+====
+#texnologik muammolar va talabalar ishtirokini nazorat qilish
+====
+  texnologik muammolar
+====
+  talabalar ishtirokini nazorat qilish
+====
+  dars materiallarini tayyorlash
+
++++++
+
+Aralash ta'lim metodlarida o'qituvchilar qanday qilib talabalar bilan samarali aloqa qilishlari mumkin?
+====
+#onlayn muloqot platformalari va yuzma-yuz uchrashuvlar orqali
+====
+  onlayn muloqot platformalari
+====
+  yuzma-yuz uchrashuvlar
+====
+  elektron pochta orqali
+
++++++
+
+Aralash ta'lim metodlarida talabalar qanday qilib o'z o'rganishlarini boshqarishlari mumkin?
+====
+#rejalashtirish, o'zini nazorat qilish va o'qituvchi bilan muloqot qilish orqali
+====
+  rejalashtirish
+====
+  o'zini nazorat qilish
+====
+  o'qituvchi bilan muloqot qilish
+
++++++
+
+Aralash ta'lim metodlarining kelajagi qanday rivojlanadi?
+====
+#yangi texnologiyalar va innovatsiyalar orqali
+====
+  texnologiyalar orqali
+====
+  pedagogik innovatsiyalar orqali
+====
+  talabalar ishtiroki
+
+
++++++
+
+Aralash ta'limning mohiyati nima?
+====
+#ta'lim jarayonida ikki xil yondashuvni birlashtirish
+====
+faqat onlayn ta'limni qo'llash
+====
+faqat an'anaviy sinfda dars o'tish
+====
+  texnologiyalar orqali 
+
++++++
+
+Aralash ta'lim modeli qanday usullardan iborat?
+====
+#an'anaviy (oflayn) va raqamli (onlayn) ta'lim usullarining integratsiyasi
+====
+faqat oflayn ta'lim
+====
+faqat onlayn ta'lim
+====
+an’anaviy
+
++++++
+
+Aralash ta'limning asosiy maqsadi nima?
+====
+#ta'lim jarayonini moslashuvchan va shaxsga yo'naltirilgan qilib yaratish
+====
+faqat ta'lim jarayonini samarali qilish
+====
+faqat texnologiyalarni qo'llash
+====
+mainframe yordamida o'qitish
+
++++++
+
+Josh Bersin aralash ta'lim metodologiyasining nechta asosiy bosqichini ko'rib chiqadi?
+====
+#to'rt asosiy bosqichini
+====
+faqat uch asosiy bosqichini
+====
+faqat besh asosiy bosqichini
+====
+faqat yetti asosiy bosqichini
+
++++++
+
+1960-1970-yillarda aralash ta'lim metodologiyasi qanday rivojlangan?
+====
+#mainframe yordamida o'qitish
+====
+faqat kompyuterlar yordamida o'qitish
+====
+faqat internet yordamida o'qitish
+====
+kompakt disklardagi o'quv kurslar
+
++++++
+
+1970-1980-yillarda aralash ta'lim metodologiyasi qanday rivojlangan?
+====
+#televizor orqali o'qitish
+====
+faqat kompyuterlar yordamida o'qitish
+====
+faqat internet yordamida o'qitish
+====
+mainframe yordamida o'qitish
+
++++++
+
+1980-1990-yillarda aralash ta'lim metodologiyasi qanday rivojlangan?
+====
+#kompakt disklardagi o'quv kurslar
+====
+faqat kompyuterlar yordamida o'qitish
+====
+faqat internet yordamida o'qitish
+====
+internet texnologiyalaridan foydalanish 
+
++++++
+
+1998-yildan boshlab aralash ta'lim metodologiyasi qanday rivojlangan?
+====
+#internet texnologiyalaridan foydalanish
+====
+faqat televizor orqali o'qitish
+====
+faqat kompakt disklardan foydalanish
+====
+mainframe yordamida o'qitish 
+
++++++
+
+Ag’darilgan sinf modeli qanday ishlaydi?
+====
+#talabalar materiallarni mustaqil ravishda onlayn ko'rib chiqadi
+====
+faqat o'qituvchi tomonidan sinfda dars o'tiladi
+====
+faqat sinfda o'qitiladi
+====
+mainframe yordamida o'qitish 
+
++++++
+
+Station Rotation modeli qanday amalga oshiriladi?
+====
+#talabalar kichik guruhlarga bo'linib, turli "stansiyalar" bo'ylab aylanib, o'qitish amalga oshiriladi
+====
+faqat sinfda dars o'tiladi
+====
+faqat onlayn ta'lim orqali dars o'tiladi
+====
+talabalar materiallarni mustaqil ravishda onlayn ko'rib chiqadi
+
++++++
+
+Flex Model qanday ishlaydi?
+====
+#katta qismi onlayn platformalar orqali amalga oshiriladi
+====
+faqat o'qituvchi bilan muloqot orqali amalga oshiriladi
+====
+faqat sinfda dars o'tiladi
+====
+talabalar materiallarni mustaqil ravishda onlayn ko'rib chiqadi
+
++++++
+
+Lab Rotation modeli qanday ishlaydi?
+====
+#sinfda yoki laboratoriyada texnologik vositalar bilan ishlashadi
+====
+faqat onlayn ta'lim orqali
+====
+faqat o'qituvchi bilan muloqot orqali
+====
+talabalar materiallarni mustaqil ravishda onlayn ko'rib chiqadi
+
++++++
+
+Self-Blend modeli qanday amalga oshiriladi?
+====
+#talabalar mustaqil ravishda an'anaviy sinfda o'qish va onlayn darslarni birlashtiradilar
+====
+faqat an'anaviy sinfda o'qish
+====
+faqat onlayn darslarni ko'rish
+
++++++
+
+Project-Based Blended Learning modeli qanday ishlaydi?
+====
+#talabalar real hayotiy loyihalar orqali o'qitiladi
+====
+faqat darslarni kuzatish orqali
+====
+faqat o'qituvchi bilan muloqot qilish orqali
+====
+katta qismi onlayn platformalar orqali amalga oshiriladi
+
++++++
+
+Gamified Blended Learning modeli qanday ishlaydi?
+====
+#o'yin elementlarini qo'llash orqali o'quv materiali o'zlashtiriladi
+====
+faqat darslarni kuzatish
+====
+faqat o'qituvchi bilan muloqot
+====
+ta'limni boshqarish va onlayn kurslarni ishlab chiqish platformasi
+
++++++
+
+Unicraft qanday platforma hisoblanadi?
+====
+#ta'limni boshqarish va onlayn kurslarni ishlab chiqish platformasi
+====
+faqat videodarslar platformasi
+====
+faqat elektron kitoblar platformasi
+====
+onlayn kurslarni o'tash uchun mobil ilova yaratish
+
++++++
+
+Gurucan qanday imkoniyatlarni taqdim etadi?
+====
+#onlayn kurslarni o'tash uchun mobil ilova yaratish
+====
+faqat videodarslarni joylashtirish
+====
+faqat testlarni o'tkazish
+====
+axborot kurslarini sotish va masofaviy ta'limni o'tkazish
+
++++++
+
+GetCourse qanday platforma hisoblanadi?
+====
+#axborot kurslarini sotish va masofaviy ta'limni o'tkazish
+====
+faqat veb-sayt yaratish
+====
+faqat testlarni o'tkazish
+====
+dasturchilarni tayyorlashga qaratilgan
+
++++++
+
+Stepik platformasining asosiy maqsadi nima?
+====
+#dasturchilarni tayyorlashga qaratilgan
+====
+faqat videodarslarni joylashtirish
+====
+faqat testlarni o'tkazish
+====
+aralash ta'lim imkoniyati
+
++++++
+
+We.Study platformasining asosiy xususiyati nimada?
+====
+#aralash ta'lim imkoniyati
+====
+faqat onlayn ta'lim
+====
+faqat oflayn ta'lim
+====
+faqat testlarni o'tkazish
+
++++++
+
+aralash ta'lim kontseptsiyasini ...-yillarda ser Isaak Pitman o'zining stenogramma tizimi bo'yicha yo'riqnomalarni sirtqi kursda yetkazgan
+====
+#1840
+====
+1841
+====
+1842
+====
+1839
+
++++++
+
+... — bu an'anaviy o'qitish usullari va raqamli texnologiyalarni birlashtirib, ta'lim jarayonini yanada samarali qilishga intiladigan usuldir
+====
+#Aralash ta’lim
+====
+dual ta'lim
+====
+ananaviy
+====
+guruhli
+
++++++
+
+Pedagogik monitoringning asosiy vazifalari bular
+====
+#diagnostic, ta'lim, tashkil etish, tarbiyaviy
+====
+tashkil etish, tarbiyaviy, o'yinli
+====
+diagnostic, ta'lim, tashkil etish,guruhli
+====
+masofaviy, ta'lim, tashkil etish,
+
++++++
+
+Monitoring maqsadi 
+====
+#alohida ta'lim tashkiloti darajasida ta'lim tizimining holati, undagi sifat va miqdoriy o'zgarishlarning yaxlit manzarasini shakllantirish uchun axborot sharoitlarini yaratish.
+====
+Maktab ichidagi monitoring o‘quv jarayoni holati va jamoat tashkilotlari faoliyatining asosiy natijalarini diagnostika qilish uchun asosiy axborot manbai hisoblanadi.
+====
+tizim faoliyati to'g'risidagi axborotni tashkil etish, to'plash, saqlash, qayta ishlash va tarqatish, uning holatini doimiy monitoringini ta'minlash hamda rivojlanishini prognozlash shaklidir.
+====
+bu an'anaviy o'qitish usullari va raqamli texnologiyalarni birlashtirib, ta'lim jarayonini yanada samarali qilishga intiladigan usuldir
+
++++++
+
+"Monitoring" ma'nosi
+====
+#lotincha monitor - eslatish, nazorat qilish
+====
+ispancha monitor - eslatish, nazorat qilish
+====
+lotincha monitor - yangilash, nazorat qilish
+====
+fransuzcha monitor - tekshirish, nazorat qilish
+
++++++
+
+... vaziyatni uzoq muddatli kuzatish, baholash va prognozlash degan ma'noni anglatadi
+====
+#Monitoring
+====
+Tekshirish
+====
+Bildirish
+====
+Kuzatish
+
++++++
+
+... o‘quv jarayoni holati va jamoat tashkilotlari faoliyatining asosiy natijalarini diagnostika qilish uchun asosiy axborot manbai hisoblanadi.
+====
+#Maktab ichidagi monitoring
+====
+Maktab tashqarisidagi monitoring
+====
+Pedagogik monitoring 
+====
+Aralash manitoring
+
++++++
+
+Pedagogik monitoring 
+====
+#bu pedagogik tizim faoliyati to'g'risidagi axborotni tashkil etish, to'plash, saqlash, qayta ishlash va tarqatish, uning holatini doimiy monitoringini ta'minlash hamda rivojlanishini prognozlash shaklidir.
+====
+Maktab ichidagi monitoring o‘quv jarayoni holati va jamoat tashkilotlari faoliyatining asosiy natijalarini diagnostika qilish uchun asosiy axborot manbai hisoblanadi.
+====
+miqdoriy o'zgarishlarning yaxlit manzarasini shakllantirish uchun axborot sharoitlarini yaratish.
+====
+talabaning o'z ishini baholashi, balki muammolarni va ularni hal qilish yo'llarini mustaqil ravishda aniqlashdir
+
++++++
+
+O'quv ma'lumotlari blokini o'rganishni tugatgandan so'ng bilim va o'quv ko'nikmalari darajasini aniqlash
+====
+#Summativ (yakuniy) baholash 
+====
+Summativ (doimiy) baholash
+====
+Formativ (yakuniy) baholash
+====
+Formativ (doimiy) baholash 
+
++++++
+
+Mezon asosida baholash 
+====
+#bu jarayonning barcha ishtirokchilariga oldindan ma'lum bo'lgan, ta'lim maqsadlari va kognitiv kompetentsiya mazmuniga mos keladigan, o'quvchilarning ta'lim va bilim qobiliyatini shakllantirishga hissa qo'shadigan aniq belgilangan, birgalikda ishlab chiqilgan mezonlar bilan o'quvchilarning ta'lim yutuqlarini taqqoslashga asoslangan jarayon
+====
+Darsda kundalik ish jarayonida bilim va malakalarni egallashning hozirgi darajasini aniqlash
+====
+O'quv ma'lumotlari blokini o'rganishni tugatgandan so'ng bilim va o'quv ko'nikmalari darajasini aniqlash
+====
+Maktab ta'limi darajasining eng aniq ko'rsatkichi, o'quv muammolarini tashxislashning asosiy ko'rsatkichi va qayta aloqalarni ta'minlash vositasidir
+
++++++
+
+Yangi o'quv dasturi o'qituvchilarga qiyin vazifani qo’yadi
+====
+#jurnalga bilimga mos keladigan yakuniy baho qo’yish va shu bilan birga har bir talabaning rivojlanishini baholash
+====
+o'quv muammolarini tashxislashning asosiy ko'rsatkichi va qayta aloqalarni ta'minlash 
+====
+birgalikda ishlab chiqilgan mezonlar bilan o'quvchilarning ta'lim yutuqlarini taqqoslash
+====
+ularning o'rganish darajasini qayd etish, 
+
++++++
+
+Ta'limda baholash 
+====
+#Maktab ta'limi darajasining eng aniq ko'rsatkichi, o'quv muammolarini tashxislashning asosiy ko'rsatkichi va qayta aloqalarni ta'minlash vositasidir
+====
+bu o'quvchilar bilimining raqamli ifodasi, ularning o'rganish darajasini qayd etish, ball bilan ifodalanadi
+====
+qayta aloqa va mustahkamlash (rag'batlantirish).
+====
+bu jarayonning barcha ishtirokchilariga oldindan ma'lum bo'lgan, ta'lim maqsadlari va kognitiv kompetentsiya mazmuniga mos keladigan, o'quvchilarning ta'lim va bilim qobiliyatini shakllantirishga hissa qo'shadigan aniq belgilangan, birgalikda ishlab chiqilgan mezonlar bilan o'quvchilarning ta'lim yutuqlarini taqqoslashga asoslangan jarayon
+
++++++
+
+Belgi bu? 
+====
+#bu o'quvchilar bilimining raqamli ifodasi, ularning o'rganish darajasini qayd etish, ball bilan ifodalanadi
+====
+Baholash belgidan oldin bo'lishi kerak.
+====
+Yangi o'quv dasturi o'qituvchilarga qiyin vazifani qo’yadi: jurnalga bilimga mos keladigan yakuniy baho qo’yish va shu bilan birga har bir talabaning rivojlanishini baholash
+====
+qayta aloqa va mustahkamlash 
+
++++++
+
+Baholash funktsiyalari
+====
+#qayta aloqa va mustahkamlash (rag'batlantirish).
+====
+qayta aloqa va rivojlantirish
+====
+nazorat
+====
+mustahkamlash
+
++++++
+
+Khan Academy tayyor videodarslari kim tomonidan ishlab chiqilgan?
+====
+# Aaron Sams va Djonatan Bergman
+====
+Aaron Sams va Jon Jonson
+====
+Jon jonson va jon adam
+====
+Jon adam va Altman
+
++++++
+
+Kahoot onlayn viktorinalarining afzalliklar: 
+====
+# O'yin shaklida mashq qilish va nazorat qilish; Talabalarni tizimda ro'yxatdan o'tkazish shart emas
+====
+O'yin shaklida mashq qilish
+====
+Barcha boshqaruv elementlari ingliz tilida
+====
+Online monitoring borligi
+
++++++
+
+LearningАpps.org ning kamchiliklari
+====
+# Tayyor materiallarda xatolar bo'lishi mumkin yoki dasturga mos kelmasligi mumkin; Talabalar natijalari haqida kam ma'lumot
+====
+Shablonlarning xilma-xilligi; O'qituvchilar tomonidan yaratilgan tayyor materiallar kutubxonasi, ularni yanada rivojlantirish mumkin;
+====
+Avtomatik tekshirish bilan vazifalar yaratish uchun bir nechta shablonlar bor xolos
+====
+Vazifalar yaratish uchun bir nechta shablon mavjud xolos.
+
++++++
+
+Ta'lim muassasasining axborot xavfsizligi - bu ... ta asosiy maqsadga erishishga qaratilgan turli xarakterdagi chora-tadbirlar majmuidir. 
+====
+#2
+====
+3
+====
+4
+====
+5
+
++++++
+
+Ta'lim muassasasining axborot xavfsizligi - bu ikkita asosiy maqsadga erishishga qaratilgan turli xarakterdagi chora-tadbirlar majmuidir. 
+====
+#Birinchi maqsad - shaxsiy ma'lumotlar va axborot maydonini ruxsatsiz aralashuvlar, ma'lumotlarni o'g'irlash hamda uchinchi shaxslar tomonidan tizim konfiguratsiyasidagi o'zgarishlardan himoya qilish. Axborot xavfsizligining ikkinchi maqsadi talabalarni qonun bilan taqiqlangan har qanday propaganda, reklama yoki axborotdan himoya qilishdir
+====
+talabalar, professor-o'qituvchilar, tashkilot xodimlariga tegishli shaxsiy ma'lumotlar va raqamli arxiv hujjatlari;
+====
+ta'lim jarayonini ta’minlash uchun foydalaniladigan o'quv dasturlari, ma'lumotlar bazalari, kutubxonalar, boshqa tuzilmali ma'lumotlar; qonun bilan himoyalangan intellektual mulk
+====
+Ta'lim muassasasining axborot xavfsizligiga tahdidlar qasddan va qasddan bo’lmagan ko’rinishlarda bo'lishi mumkin.
+
++++++
+
+Baholashning asosiy vazifasi ... aniqlashdir
+====
+#individual bilimlarning chuqurligi va hajmini
+====
+individual bilimlarni
+====
+individual bilimlarning hajmini
+====
+individual bilimlarning darajasini
+
++++++
+
+Ta'limida baholash va belgilashning farqi?
+====
+#Baholashning asosiy vazifasi individual bilimlarning chuqurligi va hajmini aniqlashdir. Baholash belgidan oldin bo'lishi kerak.
+====
+o'quvchilar bilimining raqamli ifodasi, ularning o'rganish darajasini qayd etish, ball bilan ifodalanadi
+====
+Baholashning asosiy vazifasi individual bilimlarning chuqurligi va hajmini aniqlashdir. Baholash belgidan keyin bo'lishi kerak.
+====
+bilimga mos keladigan yakuniy baho qo’yish va shu bilan birga har bir talabaning rivojlanishini baholash
+
++++++
+
+Baho bu? 
+====
+#bu haqiqiy natijalarni rejalashtirilgan maqsadlar bilan bog'lash jarayonidir
+====
+individual bilimlarning chuqurligi va hajmini aniqlashdir. 
+====
+qayta aloqa va mustahkamlash 
+====
+qayta aloqalarni ta'minlash vositasidir
+
++++++
+
+Multimedia printsipi
+====
+#So'zlar yozilishi yoki aytilishi kerak, lekin ikkalasi ham birga emas. Siz matnni gapirmasligingiz va uni bir vaqtning o'zida ekranda ko'rsatmasligingiz kerak
+====
+akademik til talabalarga ortiqcha yuk bo’lishi mumkin. Professional terminologiya o'rniga norasmiy tildan foydalanish yaxshiroqdir - bu yodlash jarayonini osonlashtiradi
+====
+o'quv multimedia materiallaridagi matnni robot yoki kompyuter emas, balki odam o'qishi kerak. Robot o'quvchi intonatsiya yoki pauzani qanday o'zgartirishni bilmaydi, shuning uchun nutq so'zlarning monoton oqimi sifatida qabul qilinadi
+====
+o'quv materiallarida odamlarning tasvirlari bo'lsa, bu o'rganish natijalarini yaxshilamaydi, aksincha, ularga zarar yetkazadi. Insonning, hatto o'qituvchining ham yuzi va mimikasi diqqatni chalg'itadi
+
++++++
+
+Shaxsiylashtirish printsipi
+====
+#akademik til talabalarga ortiqcha yuk bo’lishi mumkin. Professional terminologiya o'rniga norasmiy tildan foydalanish yaxshiroqdir - bu yodlash jarayonini osonlashtiradi
+====
+So'zlar yozilishi yoki aytilishi kerak, lekin ikkalasi ham birga emas. Siz matnni gapirmasligingiz va uni bir vaqtning o'zida ekranda ko'rsatmasligingiz kerak
+====
+o'quv multimedia materiallaridagi matnni robot yoki kompyuter emas, balki odam o'qishi kerak. Robot o'quvchi intonatsiya yoki pauzani qanday o'zgartirishni bilmaydi, shuning uchun nutq so'zlarning monoton oqimi sifatida qabul qilinadi
+====
+o'quv materiallarida odamlarning tasvirlari bo'lsa, bu o'rganish natijalarini yaxshilamaydi, aksincha, ularga zarar yetkazadi. Insonning, hatto o'qituvchining ham yuzi va mimikasi diqqatni chalg'itadi
+
++++++
+
+Ovoz printsipi
+====
+#o'quv multimedia materiallaridagi matnni robot yoki kompyuter emas, balki odam o'qishi kerak. Robot o'quvchi intonatsiya yoki pauzani qanday o'zgartirishni bilmaydi, shuning uchun nutq so'zlarning monoton oqimi sifatida qabul qilinadi
+====
+akademik til talabalarga ortiqcha yuk bo’lishi mumkin. Professional terminologiya o'rniga norasmiy tildan foydalanish yaxshiroqdir - bu yodlash jarayonini osonlashtiradi
+====
+So'zlar yozilishi yoki aytilishi kerak, lekin ikkalasi ham birga emas. Siz matnni gapirmasligingiz va uni bir vaqtning o'zida ekranda ko'rsatmasligingiz kerak
+====
+o'quv materiallarida odamlarning tasvirlari bo'lsa, bu o'rganish natijalarini yaxshilamaydi, aksincha, ularga zarar yetkazadi. Insonning, hatto o'qituvchining ham yuzi va mimikasi diqqatni chalg'itadi
+
++++++
+
+Tasvirlar printsipi
+====
+#o'quv materiallarida odamlarning tasvirlari bo'lsa, bu o'rganish natijalarini yaxshilamaydi, aksincha, ularga zarar yetkazadi. Insonning, hatto o'qituvchining ham yuzi va mimikasi diqqatni chalg'itadi
+====
+o'quv multimedia materiallaridagi matnni robot yoki kompyuter emas, balki odam o'qishi kerak. Robot o'quvchi intonatsiya yoki pauzani qanday o'zgartirishni bilmaydi, shuning uchun nutq so'zlarning monoton oqimi sifatida qabul qilinadi
+====
+akademik til talabalarga ortiqcha yuk bo’lishi mumkin. Professional terminologiya o'rniga norasmiy tildan foydalanish yaxshiroqdir - bu yodlash jarayonini osonlashtiradi
+====
+So'zlar yozilishi yoki aytilishi kerak, lekin ikkalasi ham birga emas. Siz matnni gapirmasligingiz va uni bir vaqtning o'zida ekranda ko'rsatmasligingiz kerak
+
++++++
+
+Aralash ta'limda o'qituvchilar va talabalar o'rtasidagi aloqa qaysi vositalar orqali amalga oshiriladi?
+====
+#E-pochta va forumlar
+====
+Fax va pochta
+====
+Faqat yuzma-yuz uchrashuvlar
+====
+Faqat ijtimoiy tarmoqlar
+
++++++
+
+Vaqt bo’yicha uzluksizlik printsipi
+====
+#tovush va animatsiya bir vaqtning o'zida ijro etilishi kerak
+====
+multimedia materiallarida matn uning mazmuni tasvirlangan grafikani yonida bo'lishi kerak
+====
+Talabalar kiruvchi ma'lumotlar tezligini nazorat qila olsalar, ular ma'lumotni yaxshiroq eslab qolishadi
+====
+Talabalarga multimediya materiallaridagi ma'lumotlarning miqdori yoki murakkabligi ortiqcha yuklama bo'lishi mumkin. Bunga yo'l qo'ymaslik uchun siz asosiy atamalar yoki tushunchalarni belgilash, ularni tushuntirish va shundan keyingina murakkab tavsiflarni o’rgatish kerak
+
++++++
+
+Segmentatsiya printsipi
+====
+#Talabalar kiruvchi ma'lumotlar tezligini nazorat qila olsalar, ular ma'lumotni yaxshiroq eslab qolishadi
+====
+tovush va animatsiya bir vaqtning o'zida ijro etilishi kerak
+====
+multimedia materiallarida matn uning mazmuni tasvirlangan grafikani yonida bo'lishi kerak
+====
+Multimedia o'quv vositalari nutq, grafik, video, animatsiya va matnni o'z ichiga olishi mumkin. Biroq, miya uchun faqat audio va vizual kontentni o'z ichiga olgan  axborotni qayta ishlash osonroq hisoblanadi
+
++++++
+
+Oldindan tayyorgarlik tamoyili
+====
+#Talabalarga multimediya materiallaridagi ma'lumotlarning miqdori yoki murakkabligi ortiqcha yuklama bo'lishi mumkin. Bunga yo'l qo'ymaslik uchun siz asosiy atamalar yoki tushunchalarni belgilash, ularni tushuntirish va shundan keyingina murakkab tavsiflarni o’rgatish kerak
+====
+tarkibida tasvirlar ham mavjud bo’lsa, ekrandagi bosma matn o'rniga og'zaki hikoyadan foydalanish tavsiya qilinadi. Multimedia xabarlari ham rasm, ham matnni o'z ichiga olgan bo'lsa, ikkalasining kombinatsiyasi o'quvchilarning vizual kanallariga ortiqcha yuklama bo’ladi
+====
+So'zlar yozilishi yoki aytilishi kerak, lekin ikkalasi ham birga emas. Siz matnni gapirmasligingiz va uni bir vaqtning o'zida ekranda ko'rsatmasligingiz kerak
+====
+akademik til talabalarga ortiqcha yuk bo’lishi mumkin. Professional terminologiya o'rniga norasmiy tildan foydalanish yaxshiroqdir - bu yodlash jarayonini osonlashtiradi
+
++++++
+
+Multimediadan foydalanishning Izchillik tamoyili
+====
+# o'quv materiallaridan o'rganilayotgan fan yoki sohaga aloqador bo'lmagan keraksiz detallarni olib tashlash kerak
+====
+ekranda turli xil o'quv kontenti, masalan, grafik va diagramma ko'rsatilganda, o'quvchilar ularni o'rganish tartibini tushunishlari kerak
+====
+Multimedia o'quv vositalari nutq, grafik, video, animatsiya va matnni o'z ichiga olishi mumkin. Biroq, miya uchun faqat audio va vizual kontentni o'z ichiga olgan  axborotni qayta ishlash osonroq hisoblanadi
+====
+multimedia materiallarida matn uning mazmuni tasvirlangan grafikani yonida bo'lishi kerak
+
++++++
+
+Multimediadan foydalanishning Signal berish printsipi: 
+====
+# ekranda turli xil o'quv kontenti, masalan, grafik va diagramma ko'rsatilganda, o'quvchilar ularni o'rganish tartibini tushunishlari kerak
+====
+Multimedia o'quv vositalari nutq, grafik, video, animatsiya va matnni o'z ichiga olishi mumkin. Biroq, miya uchun faqat audio va vizual kontentni o'z ichiga olgan  axborotni qayta ishlash osonroq hisoblanadi
+====
+o'quv materiallaridan o'rganilayotgan fan yoki sohaga aloqador bo'lmagan keraksiz detallarni olib tashlash kerak
+====
+tovush va animatsiya bir vaqtning o'zida ijro etilishi kerak
+
++++++
+
+Biror kishi o'quv multimedia materialini o'zlashtirganda, uning miyasi ... ta turdagi yuklamani boshdan kechirishi mumkin: 
+====
+#3
+====
+2
+====
+4
+====
+5
+
++++++
+
+Biror kishi o'quv multimedia materialini o'zlashtirganda, uning miyasi uchta turdagi yuklamani boshdan kechirishi mumkin: bular
+====
+#Tashqi yoki keraksiz ishlov berish, Ichki yuk yoki asosiy ishlov berish, Nemis yuki yoki generativ ishlov berish
+====
+aralash ta’lim, verbal va noverbaldan 
+====
+Tashqi yoki keraksiz ishlov berish, Ichki yuk yoki asosiy ishlov berish, aralash
+====
+verbal Ichki yuk yoki asosiy ishlov berish, Nemis yuki yoki generativ ishlov berish
+
++++++
+
+Kognitiv ortiqcha yuk nima? 
+====
+#Agar ma'lumot juda ko'p bo'lsa, unda kognitiv (boshqacha aytganda, aqliy) ishlov berish pasayadi va odam kontentni idrok etishni to'xtatadi. 
+====
+verbal va noverbaldan foydalanish zarurligiga asoslangan edi
+====
+bu o'rganishning kognitiv nazariyasiga asoslangan maxsus yondashuv.
+====
+Tashqi yoki keraksiz ishlov berish, Ichki yuk yoki asosiy ishlov berish, Nemis yuki yoki generativ ishlov berish
+
++++++
+
+Meyer nazariyasi aralash ta’lim 
+====
+#verbal va noverbaldan foydalanish zarurligiga asoslangan edi
+====
+Kaliforniya universiteti pedagogik psixologi Richard Meyer tomonidan ishlab chiqilgan   
+====
+verbal va noverbaldan foydalanish zarurligiga asoslangan edi
+====
+Biror kishi o'quv multimedia materialini o'zlashtirganda, uning miyasi uchta turdagi yuklamani boshdan kechirishi mumkin
+
++++++
+
+verbal va noverbaldan foydalanish zarurligiga asoslangan edi
+====
+#Meyer nazariyasi aralash ta’lim 
+====
+Kaliforniya universiteti pedagogik psixologi Richard Meyer tomonidan ishlab chiqilgan   
+====
+odam kontentni idrok etishni to'xtatadi. 
+====
+Tashqi yoki keraksiz ishlov berish, Ichki yuk yoki asosiy ishlov berish, Nemis yuki yoki generativ ishlov berish
+
++++++
+
+1981-yil 12-avgustda IBM dunyodagi birinchi shaxsiy kompyuterni taqdim etdi . Bu ish chastotasi 4,77 megagerts, operativ xotirasi 64 kilobayt bo'lgan ... bitli protsessor edi
+====
+#16
+====
+32
+====
+64
+====
+128
+
++++++
+
+XX asrning ...-yillarida sodir bo'ldi. Amerikalik kompyuter olimi va biznesmen Bill Geyts National Art Gallery multimedia mahsulotini yaratdi
+====
+#80
+====
+90
+====
+70
+====
+60
+
++++++
+
+XX asrning 80-yillarida sodir bo'ldi. Amerikalik kompyuter olimi va biznesmen ... National Art Gallery multimedia mahsulotini yaratdi
+====
+#Bill Geyts
+====
+Steve Jobs
+====
+Jon Dyu
+====
+Makkenly
+
++++++
+
+XX asrning 80-yillarida sodir bo'ldi. Amerikalik kompyuter olimi va biznesmen Bill Geyts ... multimedia mahsulotini yaratdi
+====
+#National Art Gallery
+====
+Global Art Gallery 
+====
+National Art Graph
+====
+National Graph Gallery
+
++++++
+
+1962 yilda, ko'p yillik mehnatdan so'ng, Morton Heilig Sensorama deb nomlangan dunyodagi birinchi ... qurilmasini taqdim etdi
+====
+#VR
+====
+AR
+====
+AI
+====
+IT
+
++++++
+
+... yilda, ko'p yillik mehnatdan so'ng, Morton Heilig Sensorama deb nomlangan dunyodagi birinchi VR qurilmasini taqdim etdi
+====
+#1962
+====
+1960
+====
+1956
+====
+1964
+
++++++
+
+1962 yilda, ko'p yillik mehnatdan so'ng, ... Sensorama deb nomlangan dunyodagi birinchi VR qurilmasini taqdim etdi
+====
+#Morton Heilig
+====
+Bill Gates
+====
+Stave Jobs
+====
+Sensorama
+
++++++
+
+1962 yilda, ko'p yillik mehnatdan so'ng, Morton Heilig ... deb nomlangan dunyodagi birinchi VR qurilmasini taqdim etdi
+====
+#Sensorama
+====
+Sensogramma
+====
+Art Gallery
+====
+GAllery Art
+
++++++
+
+... yilda birinchi kompyuter OXO mantiqiy o'yinini paydo bo'lgan
+====
+#1952
+====
+1954
+====
+1956
+====
+1958
+
++++++
+
+Aralash ta'lim tushunchasi asosan nimani anglatadi?
+====
+#Onlayn va an'anaviy ta'limni birlashtirish
+====
+Ta’limni demokratlashtirish
+====
+An'anaviy ta'limni to'liq o'rnini bosish
+====
+Faqat o'qituvchi bilan sinfda ishlash
+
++++++
+
+Khan Academy qaysi yilga borib mashhur bo'lgan ta'lim platformasiga aylangan?
+====
+#2008
+====
+2000
+====
+2006
+====
+2010
+
++++++
+
+Josh Bersin aralash ta’lim metodologiyasini ishlab chiqishning 4 asosiy bosqichini ko‘rib chiqadi.1-bosqichni aniqlang.
+====
+# 1960–1970-yillar: mainfreme yordamida o'qitish
+====
+1970–1980 yillar: televideniye orqali o'qitish
+====
+1980–1990 yillar: kompakt disklardagi o'quv kurslar
+====
+1998 yil – bugungi kun: o'qitishda internet texnologiyalaridan foydalanish
+
++++++
+
+Josh Bersin aralash ta’lim metodologiyasini ishlab chiqishning 4 asosiy bosqichini ko‘rib chiqadi.2-bosqichni aniqlang.
+====
+# 1970–1980 yillar: televideniye orqali o'qitish
+====
+1960–1970-yillar: mainfreme yordamida o'qitish
+====
+1980–1990 yillar: kompakt disklardagi o'quv kurslar
+====
+1998 yil – bugungi kun: o'qitishda internet texnologiyalaridan foydalanish
+
++++++
+
+Josh Bersin aralash ta’lim metodologiyasini ishlab chiqishning 4 asosiy bosqichini ko‘rib chiqadi.3-bosqichni aniqlang.
+====
+# 1980–1990 yillar: kompakt disklardagi o'quv kurslar
+====
+1960–1970-yillar: mainfreme yordamida o'qitish
+====
+1970–1980 yillar: televideniye orqali o'qitish
+====
+1998 yil – bugungi kun: o'qitishda internet texnologiyalaridan foydalanish
+
++++++
+
+Josh Bersin aralash ta’lim metodologiyasini ishlab chiqishning 4 asosiy bosqichini ko‘rib chiqadi.4-bosqichni aniqlang.
+====
+# 1998 yil – bugungi kun: o'qitishda internet texnologiyalaridan foydalanish
+====
+1960–1970-yillar: mainfreme yordamida o'qitish
+====
+1970–1980 yillar: televideniye orqali o'qitish
+====
+1980–1990 yillar: kompakt disklardagi o'quv kurslar
+
++++++
+
+PLATO hisoblash tizimi qaysi universitetda yaratilgan?
+====
+# Illinoys
+====
+Kambridj
+====
+Oksford
+====
+Garvard
+
++++++
+
+Flipped Classroom (Ag’darilgan(teskari) sinf) modeli qanday model?
+====
+# Bu modelda o'quv jarayoni ag'darilgan: an'anaviy sinfda amalga oshiriladigan darslar talabalar tomonidan mustaqil ravishda onlayn ko'rib chiqiladi, masalan, dars videolari yoki materiallar uyga vazifa sifatida beriladi. Sinfda esa talabalar bilan amaliy mashg'ulotlar, munozaralar va loyihalar o'tkaziladi.
+====
+Talabalar kichik guruhlarga bo'linib, turli "stansiyalar" bo'ylab aylanib, har bir stansiyada alohida o'quv faoliyati bilan shug'ullanadilar. Stansiyalar ichida texnologiyadan foydalaniladigan qismlar (masalan, onlayn resurslar bilan ishlash), shuningdek, o'qituvchi bilan bevosita muloqot yoki guruh faoliyati kabi qism bo'lishi mumkin.
+====
+Bu modelda o'qishning katta qismi onlayn platformalar orqali amalga oshiriladi, o'qituvchi esa talabalar bilan aloqani qo'llab-quvvatlaydi va individual yordam ko'rsatadi. Talabalar o'zlarining o'qish yo'lini o'z vaqtlarida va o'z tempida boshqaradilar
+====
+Talabalar sinfda yoki laboratoriyada turli texnologik vositalar va o'quv resurslari bilan ishlashadi. Darslar texnologiyalar yordamida mustaqil ravishda o'tkaziladi, ammo sinfda yoki laboratoriyada bo'lish talab qilinadi
+
++++++
+
+… - bu ma'lumotlar mantiqiy yoki assotsiativ ravishda giperhavolalar orqali bog'langan axborotni tashkil qilish printsipi.
+====
+# Gipermedia
+====
+Multimedia
+====
+Animatsiya
+====
+Grafika
+
++++++
+
+Edulance qanday platforma?
+====
+# Onlayn maktablarni ishga tushirish uchun platforma.
+====
+Axborot kurslarini sotish va masofaviy ta'limni o'tkazish uchun onlayn platforma.
+====
+onlayn kurslarni o'tash uchun o'zingizning mobil ilovangizni yaratish qobiliyati.
+====
+Ta'limni boshqarish va onlayn kurslarni ishlab chiqish platformasi.
+
++++++
+
+Ta'lim maqsadlari nima?
+====
+#o'rganishdan kutilgan natijalardir.
+====
+Baholarning yuqoriligi
+====
+Bilimlarni amaliyotga qo‘llay bilish
+====
+Yangi bilimlar egallash
+
++++++
+
+Eliademy qanday platforma?
+====
+# Standart funktsiyalar to'plamiga ega onlayn ta'limni boshqarish tizimi.
+====
+Platformaning asosiy xususiyati shundaki, u dasturchilarni tayyorlashga qaratilgan.
+====
+O'zingizning onlayn maktabingizni yaratishga imkon beruvchi ko'p funktsiyali platforma.
+====
+Yetarlicha funktsional platforma, uning asosiy xususiyati kurslar va vebinarlarni ajratishdir, ikkinchisi o'z xizmatiga ega.
+
++++++
+
+Stepik qanday platforma?
+====
+# Platformaning asosiy xususiyati shundaki, u dasturchilarni tayyorlashga qaratilgan.
+====
+Standart funktsiyalar to'plamiga ega onlayn ta'limni boshqarish tizimi.
+====
+Yetarlicha funktsional platforma, uning asosiy xususiyati kurslar va vebinarlarni ajratishdir, ikkinchisi o'z xizmatiga ega.
+====
+Platforma o'zini avtomatlashtirilgan axborot biznesi tizimi sifatida ko'rsatadi
+
++++++
+
+Axborot kurslarini sotish va masofaviy ta'limni o'tkazish uchun mo‘ljallangan onlayn platformani toping.
+====
+# GetCourse
+====
+Justclick
+====
+Gurucan
+====
+Unicraft
+
++++++
+
+…-bu o'qituvchi o'quvchilarga taklif qiladigan va dars davomida tashkil etadigan tadbirlar majmuidir
+====
+# Harakat rejasi
+====
+Kutilayotgan natijalar
+====
+Baholash
+====
+Ta'lim maqsadlari
+
++++++
+
+Darsni tashkil qilishdagi yondashuvlarni toping.
+====
+# "vazifaga asoslangan" ,"tadqiqotga asoslangan"
+====
+"vazifaga asoslangan" ,"laboratoriyaga asoslangan"
+====
+"bahoga asoslangan" ,"tadqiqotga asoslangan"
+====
+"vazifaga asoslangan" ,"taqlidga asoslangan"
+
++++++
+
+Vazifani tayyorlashni nechta yo‘nalishda tahlil qilish kerak?
+====
+# 3
+====
+2
+====
+4
+====
+5
+
++++++
+
+Texnologik vositalar bo'yicha maslahatchi aralash ta’limda o‘qituvchining nechanchi roli hisoblanadi?
+====
+# 2-ro‘li
+====
+1-ro‘li
+====
+3-ro‘li
+====
+4-ro‘li
+
++++++
+
+Graham (2006) ... muvaffaqiyatli amalga oshirishga to'sqinlik qiladigan cheklovlarni aniqladi:
+====
+#aralash ta'limni
+====
+dual ta'limni
+====
+masofaviy ta'limni
+====
+ananaviy ta'limni
+
++++++
+
+... aralash ta'limni muvaffaqiyatli amalga oshirishga to'sqinlik qiladigan cheklovlarni aniqladi:
+====
+#Graham (2006)
+====
+Hoffman (2014) 
+====
+Driscoll (2019) 
+====
+Elsenxaymer (2006) 
+
++++++
+
+Graham (2006) aralash ta'limni muvaffaqiyatli amalga oshirishga to'sqinlik qiladigan quyidagi cheklovlarni aniqladi:
+====
+#Jonli shovqin,	O'z-o'zini tartibga solish,Madaniy moslashuv,Innovatsiyalar va ishlab chiqarish o'rtasidagi muvozanat, Internetga kirish va foydalanuvchini qabul qilish
+====
+Til ko'nikmalarini rivojlantirish,Motivatsiya va faollikni oshirish,O'quv muhitini yaxshilash
+====
+aralash ta'lim bilan bog'liq texnologiyadan muvaffaqiyatli foydalanish bo'yicha ishtirokchilarning individual xususiyatlarini va texnologiya bilan ishlash qobiliyatini hisobga olgan holda majburiyatini qanday ta'minlash
+====
+to'g'ri javob yo'q
+
++++++
+
+Hoffman (2014) fikriga ko'ra ...
+====
+#aralash ta'lim tahkil etishdagi asosiy muammo - aralash ta'lim bilan bog'liq texnologiyadan muvaffaqiyatli foydalanish bo'yicha ishtirokchilarning individual xususiyatlarini va texnologiya bilan ishlash qobiliyatini hisobga olgan holda majburiyatini qanday ta'minlash
+====
+Aralash ta'limni pedagogik yondashuvga kiritishdan maqsad an'anaviy amaliyotlarni yo'q qilish emas, balki o'qituvchilar va o'quvchilarga yuzma-yuz muloqot hamda onlayn o'qitish usullarining o'ziga xos afzalliklarini ta'minlashdir
+====
+aralash ta’lim “muayyan dastur elementi uchun o‘qitishning eng samarali shaklini qo‘llash orqali o‘quv salohiyatini maksimal darajada oshirishga intiladigan ta’lim dizayniga yondashuv”dir
+====
+an'anaviy o'qitish usullari va raqamli texnologiyalarni birlashtirib, ta'lim jarayonini yanada samarali qilishga intiladigan usuldir
+
++++++
+
+... fikriga ko'ra, aralash ta'lim tahkil etishdagi asosiy muammo - aralash ta'lim bilan bog'liq texnologiyadan muvaffaqiyatli foydalanish bo'yicha ishtirokchilarning individual xususiyatlarini va texnologiya bilan ishlash qobiliyatini hisobga olgan holda majburiyatini qanday ta'minlash
+====
+#Hoffman (2014)
+====
+Graham (2006) 
+====
+Adam (2013) 
+====
+Driscoll (2019)
